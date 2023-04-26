@@ -156,3 +156,53 @@ A list of visual(camera) re-localization researches. Visual relocalization refer
 
 #### Improved matching method
 
+![](https://img.shields.io/badge/year-2006-g)|![](https://img.shields.io/badge/pub-TPAMI-orange)|[Keypoint recognition using randomized trees](https://ieeexplore.ieee.org/abstract/document/1661548/)
+
+![](https://img.shields.io/badge/year-2009-g)|![](https://img.shields.io/badge/pub-CVPR-orange)|[From structure-from-motion point clouds to fast location recognition](https://ieeexplore.ieee.org/abstract/document/5206587/)
+
+![](https://img.shields.io/badge/year-2012-g)|![](https://img.shields.io/badge/pub-ECCV-orange)|[Worldwide pose estimation using 3d point clouds](https://link.springer.com/chapter/10.1007/978-3-319-25781-5_8)
+
+![](https://img.shields.io/badge/year-2014-g)|![](https://img.shields.io/badge/pub-CVPR-orange)|[Discriminative feature-to-point matching in image-based localization](http://openaccess.thecvf.com/content_cvpr_2014/html/Donoser_Discriminative_Feature-to-Point_Matching_2014_CVPR_paper.html)
+
+![](https://img.shields.io/badge/year-2015-g)|![](https://img.shields.io/badge/pub-ICCV-orange)|[Hyperpoints and fine vocabularies for large-scale location recognition](https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Sattler_Hyperpoints_and_Fine_ICCV_2015_paper.html)
+
+![](https://img.shields.io/badge/year-2015-g)|![](https://img.shields.io/badge/pub-ICRA-orange)|[Efficient monocular pose estimation for complex 3d models](https://ieeexplore.ieee.org/abstract/document/7139372/)
+
+![](https://img.shields.io/badge/year-2015-g)|![](https://img.shields.io/badge/pub-TIP-orange)|[Fast localization in large-scale environments using supervised indexing of binary features](https://ieeexplore.ieee.org/abstract/document/7327197/)
+
+![](https://img.shields.io/badge/year-2016-g)|![](https://img.shields.io/badge/pub-BMVC-orange)|[Filtering 3d keypoints using gist for accurate image-based localization](http://www.bmva.org/bmvc/2016/papers/paper127/paper127.pdf)
+
+![](https://img.shields.io/badge/year-2016-g)|![](https://img.shields.io/badge/pub-CVPR-orange)|[Large-scale location recognition and the geometric burstiness problem](http://openaccess.thecvf.com/content_cvpr_2016/html/Sattler_Large-Scale_Location_Recognition_CVPR_2016_paper.html) |[code](https://github.com/tsattler/geometric_burstiness)![](https://img.shields.io/github/stars/tsattler/geometric_burstiness?style=social)
+
+![](https://img.shields.io/badge/year-2019-g)|![](https://img.shields.io/badge/pub-CVPR-orange)|[From coarse to fine: robust hierarchical localization at large scale](http://openaccess.thecvf.com/content_CVPR_2019/html/Sarlin_From_Coarse_to_Fine_Robust_Hierarchical_Localization_at_Large_Scale_CVPR_2019_paper.html) |[code](https://github.com/cvg/Hierarchical-Localization)![](https://img.shields.io/github/stars/cvg/Hierarchical-Localization?style=social)
+
+![](https://img.shields.io/badge/year-2019-g)|![](https://img.shields.io/badge/pub-ICRA-orange)|[2d3d-matchnet: Learning to match keypoints across 2d image and 3d point cloud](https://ieeexplore.ieee.org/abstract/document/8794415/)
+
+![](https://img.shields.io/badge/year-2020-g)|![](https://img.shields.io/badge/pub-AAAI-orange)|[Lcd: Learned cross-domain descriptors for 2d-3d matching](https://ojs.aaai.org/index.php/AAAI/article/view/6859) |[code](https://github.com/hkust-vgd/lcd)![](https://img.shields.io/github/stars/hkust-vgd/lcd?style=social)
+
+![](https://img.shields.io/badge/year-2020-g)|![](https://img.shields.io/badge/pub-ECCV-orange)|[DA4AD: end-to-end deep attention-based visual localization for autonomous driving](https://link.springer.com/chapter/10.1007/978-3-030-58604-1_17)
+
+![](https://img.shields.io/badge/year-2020-g)|![](https://img.shields.io/badge/pub-IROS-orange)|[Monocular camera localization in prior lidar maps with 2d-3d line correspondences](https://ieeexplore.ieee.org/abstract/document/9341690/) |[code](https://github.com/levenberg/2D-3D-pose-tracking)![](https://img.shields.io/github/stars/levenberg/2D-3D-pose-tracking?style=social)
+
+![](https://img.shields.io/badge/year-2021-g)|![](https://img.shields.io/badge/pub-CVPR-orange)|[Back to the feature: learning robust camera localization from pixels to pose](http://openaccess.thecvf.com/content/CVPR2021/html/Sarlin_Back_to_the_Feature_Learning_Robust_Camera_Localization_From_Pixels_CVPR_2021_paper.html) |[code](https://github.com/cvg/pixloc)![](https://img.shields.io/github/stars/cvg/pixloc?style=social)
+
+#### 2D-3D pose estimation
+
+![](https://img.shields.io/badge/year-1981-g)|![](https://img.shields.io/badge/pub-Commun. ACM-orange)|[Random sample consensus: a paradigm for model fitting with applications to image analysis and automated cartography](https://dl.acm.org/doi/abs/10.1145/358669.358692)
+
+![](https://img.shields.io/badge/year-1999-g)|![](https://img.shields.io/badge/pub-IWVA-orange)|[Bundle adjustment — a modern synthesis](https://link.springer.com/chapter/10.1007/3-540-44480-7_21)
+
+![](https://img.shields.io/badge/year-2000-g)|![](https://img.shields.io/badge/pub-CVIU-orange)|[MLESAC: a new robust estimator with application to estimating image geometry](https://www.sciencedirect.com/science/article/pii/S1077314299908329)
+
+![](https://img.shields.io/badge/year-2003-g)|![](https://img.shields.io/badge/pub-TPAMI-orange)|[Complete solution classification for the perspective-three-point problem](https://ieeexplore.ieee.org/abstract/document/1217599/)
+
+![](https://img.shields.io/badge/year-2005-g)|![](https://img.shields.io/badge/pub-CVPR-orange)|[Matching with prosac — progressive sample consensus](https://ieeexplore.ieee.org/abstract/document/1467271/)
+
+![](https://img.shields.io/badge/year-2008-g)|![](https://img.shields.io/badge/pub-CVPR-orange)|[ A general solution to the p4p problem for camera with unknown focal length](https://ieeexplore.ieee.org/abstract/document/4587793/)
+
+![](https://img.shields.io/badge/year-2009-g)|![](https://img.shields.io/badge/pub-IJCV-orange)|[EPnP: an accurate o(n) solution to the pnp problem](https://link.springer.com/article/10.1007/s11263-008-0152-6)
+
+![](https://img.shields.io/badge/year-2013-g)|![](https://img.shields.io/badge/pub-TPAMI-orange)|[USAC: a universal framework for random sample consensus](https://ieeexplore.ieee.org/abstract/document/6365642/)
+
+![](https://img.shields.io/badge/year-2015-g)|![](https://img.shields.io/badge/pub-Remote Sens.-orange)|[Direct linear transformation from comparator coordinates into object space coordinates in close-range photogrammetry](https://www.sciencedirect.com/science/article/pii/S0099111215303086)
+
