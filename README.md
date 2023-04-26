@@ -188,7 +188,7 @@ A list of visual(camera) re-localization researches. Visual relocalization refer
 
 #### 2D-3D pose estimation
 
-![](https://img.shields.io/badge/year-1981-g)|![](https://img.shields.io/badge/pub-Commun. ACM-orange)|[Random sample consensus: a paradigm for model fitting with applications to image analysis and automated cartography](https://dl.acm.org/doi/abs/10.1145/358669.358692)
+![](https://img.shields.io/badge/year-1981-g)|![](https://img.shields.io/badge/pub-Commun._ACM-orange)|[Random sample consensus: a paradigm for model fitting with applications to image analysis and automated cartography](https://dl.acm.org/doi/abs/10.1145/358669.358692)
 
 ![](https://img.shields.io/badge/year-1999-g)|![](https://img.shields.io/badge/pub-IWVA-orange)|[Bundle adjustment — a modern synthesis](https://link.springer.com/chapter/10.1007/3-540-44480-7_21)
 
@@ -204,5 +204,5 @@ A list of visual(camera) re-localization researches. Visual relocalization refer
 
 ![](https://img.shields.io/badge/year-2013-g)|![](https://img.shields.io/badge/pub-TPAMI-orange)|[USAC: a universal framework for random sample consensus](https://ieeexplore.ieee.org/abstract/document/6365642/)
 
-![](https://img.shields.io/badge/year-2015-g)|![](https://img.shields.io/badge/pub-Remote Sens.-orange)|[Direct linear transformation from comparator coordinates into object space coordinates in close-range photogrammetry](https://www.sciencedirect.com/science/article/pii/S0099111215303086)
+![](https://img.shields.io/badge/year-2015-g)|![](https://img.shields.io/badge/pub-Remote_Sens.-orange)|[Direct linear transformation from comparator coordinates into object space coordinates in close-range photogrammetry](https://www.sciencedirect.com/science/article/pii/S0099111215303086)
 
