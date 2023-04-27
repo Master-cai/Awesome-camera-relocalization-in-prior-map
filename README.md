@@ -204,3 +204,101 @@ A list of visual(camera) re-localization researches. Visual relocalization refer
 
 ![](https://img.shields.io/badge/year-2015-g)![](https://img.shields.io/badge/pub-Remote_Sens.-orange)[Direct linear transformation from comparator coordinates into object space coordinates in close-range photogrammetry](https://www.sciencedirect.com/science/article/pii/S0099111215303086)
 
+### 3D $\rightarrow$ 2D: projection methods
+
+![](https://img.shields.io/badge/year-2009-g)![](https://img.shields.io/badge/pub-CVPR-orange)[Automatic registration of lidar and optical images of urban scenes](https://ieeexplore.ieee.org/abstract/document/5206539/)
+
+![](https://img.shields.io/badge/year-2012-g)![](https://img.shields.io/badge/pub-ICRA-orange)[LAPS - localisation using appearance of prior structure: 6-dof monocular camera localisation using prior pointclouds](https://ieeexplore.ieee.org/abstract/document/6224750/)
+
+![](https://img.shields.io/badge/year-2014-g)![](https://img.shields.io/badge/pub-IROS-orange)[Visual localization within lidar maps for automated urban driving](https://ieeexplore.ieee.org/abstract/document/6942558/)
+
+![](https://img.shields.io/badge/year-2015-g)![](https://img.shields.io/badge/pub-BMVC-orange)[Robust direct visual localisation using normalised information distance](https://www.robots.ox.ac.uk/~mobile/Papers/2015BMVC_Pascoe.pdf)
+
+![](https://img.shields.io/badge/year-2017-g)![](https://img.shields.io/badge/pub-IROS-orange)[Sampling-based methods for visual navigation in 3d maps by synthesizing depth images](https://ieeexplore.ieee.org/abstract/document/8206067/)
+
+![](https://img.shields.io/badge/year-2019-g)![](https://img.shields.io/badge/pub-IJARS-orange)[Convolutional neural network-based coarse initial position estimation of a monocular camera in large-scale 3D light detection and ranging maps](https://journals.sagepub.com/doi/pdf/10.1177/1729881419893518)
+
+![](https://img.shields.io/badge/year-2019-g)![](https://img.shields.io/badge/pub-ITSC-orange)[CMRNet: camera to lidar-map registration](https://ieeexplore.ieee.org/abstract/document/8917470/) |[code](https://github.com/cattaneod/CMRNet)![](https://img.shields.io/github/stars/cattaneod/CMRNet?style=social)
+
+![](https://img.shields.io/badge/year-2020-g)![](https://img.shields.io/badge/pub-ICRA-orange)[Global visual localization in lidar-maps through shared 2d-3d embedding space](https://ieeexplore.ieee.org/abstract/document/9196859/)
+
+![](https://img.shields.io/badge/year-2022-g)![](https://img.shields.io/badge/pub-ECCV-orange)[CPO: change robust panorama to point cloud localization](https://link.springer.com/chapter/10.1007/978-3-031-20077-9_11)
+
+### 2D $\rightarrow$ 3D: Scene Dimensional Upgrading
+
+#### Scene Coordinate Regression
+
+![](https://img.shields.io/badge/year-2013-g)![](https://img.shields.io/badge/pub-CVPR-orange)[Scene coordinate regression forests for camera relocalization in rgb-d images](http://openaccess.thecvf.com/content_cvpr_2013/html/Shotton_Scene_Coordinate_Regression_2013_CVPR_paper.html)
+
+![](https://img.shields.io/badge/year-2014-g)![](https://img.shields.io/badge/pub-CVPR-orange)[Multi-output learning for camera relocalization](https://www.cv-foundation.org/openaccess/content_cvpr_2014/html/Guzman-Rivera_Multi-Output_Learning_for_2014_CVPR_paper.html)
+
+![](https://img.shields.io/badge/year-2015-g)![](https://img.shields.io/badge/pub-CVPR-orange)[Exploiting uncertainty in regression forests for accurate camera relocalization](http://openaccess.thecvf.com/content_cvpr_2015/html/Valentin_Exploiting_Uncertainty_in_2015_CVPR_paper.html)
+
+![](https://img.shields.io/badge/year-2016-g)![](https://img.shields.io/badge/pub-ECCV-orange)[Deep image retrieval: Learning global representations for image search](https://link.springer.com/chapter/10.1007/978-3-319-46466-4_15)
+
+![](https://img.shields.io/badge/year-2017-g)![](https://img.shields.io/badge/pub-CVPR-orange)[On-the-fly adaptation of regression forests for online camera relocalisation](http://openaccess.thecvf.com/content_cvpr_2017/html/Cavallari_On-The-Fly_Adaptation_of_CVPR_2017_paper.html)
+
+![](https://img.shields.io/badge/year-2017-g)![](https://img.shields.io/badge/pub-CVPR-orange)[DSAC — differentiable ransac for camera localization](http://openaccess.thecvf.com/content_cvpr_2017/html/Brachmann_DSAC_-_Differentiable_CVPR_2017_paper.html) |[code](https://github.com/cvlab-dresden/DSAC)![](https://img.shields.io/github/stars/cvlab-dresden/DSAC?style=social)
+
+![](https://img.shields.io/badge/year-2017-g)![](https://img.shields.io/badge/pub-ICRA-orange)[Random forests versus neural networks — what’s best for camera localization](https://ieeexplore.ieee.org/abstract/document/7989598/)
+
+![](https://img.shields.io/badge/year-2018-g)![](https://img.shields.io/badge/pub-CVPR-orange)[Learning less is more - 6d camera localization via 3d surface regression](http://openaccess.thecvf.com/content_cvpr_2018/html/Brachmann_Learning_Less_Is_CVPR_2018_paper.html) |[code](https://github.com/vislearn/LessMore)![](https://img.shields.io/github/stars/vislearn/LessMore?style=social)
+
+![](https://img.shields.io/badge/year-2018-g)![](https://img.shields.io/badge/pub-ECCVW-orange)[Scene coordinate regression with angle-based reprojection loss for camera relocalization](https://openaccess.thecvf.com/content_eccv_2018_workshops/w16/html/Li_Scene_Coordinate_Regression_with_Angle-Based_Reprojection_Loss_for_Camera_Relocalization_ECCVW_2018_paper.html?ref=https://githubhelp.com)
+
+![](https://img.shields.io/badge/year-2018-g)![](https://img.shields.io/badge/pub-IROS-orange)[Exploiting points and lines in regression forests for rgb-d camera relocalization](https://ieeexplore.ieee.org/abstract/document/8593505/)
+
+![](https://img.shields.io/badge/year-2019-g)![](https://img.shields.io/badge/pub-ICCV-orange)[Expert sample consensus applied to camera re-localization](http://openaccess.thecvf.com/content_ICCV_2019/html/Brachmann_Expert_Sample_Consensus_Applied_to_Camera_Re-Localization_ICCV_2019_paper.html) |[code](https://github.com/vislearn/esac)![](https://img.shields.io/github/stars/vislearn/esac?style=social)
+
+![](https://img.shields.io/badge/year-2019-g)![](https://img.shields.io/badge/pub-ICCV-orange)[SANet: scene agnostic network for camera localization](http://openaccess.thecvf.com/content_ICCV_2019/html/Yang_SANet_Scene_Agnostic_Network_for_Camera_Localization_ICCV_2019_paper.html)
+
+![](https://img.shields.io/badge/year-2019-g)![](https://img.shields.io/badge/pub-ICCVW-orange)[ Camera relocalization by exploiting multi-view constraints for scene coordinates regression](http://openaccess.thecvf.com/content_ICCVW_2019/html/DL4VSLAM/Cai_Camera_Relocalization_by_Exploiting_Multi-View_Constraints_for_Scene_Coordinates_Regression_ICCVW_2019_paper.html)
+
+![](https://img.shields.io/badge/year-2020-g)![](https://img.shields.io/badge/pub-CVPR-orange)[Hierarchical scene coordinate classification and regression for visual localization](http://openaccess.thecvf.com/content_CVPR_2020/html/Li_Hierarchical_Scene_Coordinate_Classification_and_Regression_for_Visual_Localization_CVPR_2020_paper.html)
+
+![](https://img.shields.io/badge/year-2020-g)![](https://img.shields.io/badge/pub-CVPR-orange)[ KFNet: learning temporal camera relocalization using kalman filtering](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhou_KFNet_Learning_Temporal_Camera_Relocalization_Using_Kalman_Filtering_CVPR_2020_paper.html) |[code](https://github.com/zlthinker/KFNet)![](https://img.shields.io/github/stars/zlthinker/KFNet?style=social)
+
+![](https://img.shields.io/badge/year-2021-g)![](https://img.shields.io/badge/pub-CVPR-orange)[Learning camera localization via dense scene matching](http://openaccess.thecvf.com/content/CVPR2021/html/Tang_Learning_Camera_Localization_via_Dense_Scene_Matching_CVPR_2021_paper.html) |[code](https://github.com/Tangshitao/Dense-Scene-Matching)![](https://img.shields.io/github/stars/Tangshitao/Dense-Scene-Matching?style=social)
+
+![](https://img.shields.io/badge/year-2021-g)![](https://img.shields.io/badge/pub-TPAMI-orange)[Visual camera re-localization from RGB and RGB-D images using DSAC](https://ieeexplore.ieee.org/abstract/document/9394752/) |[code](https://github.com/vislearn/dsacstar)![](https://img.shields.io/github/stars/vislearn/dsacstar?style=social)
+
+![](https://img.shields.io/badge/year-2022-g)![](https://img.shields.io/badge/pub-CVPR-orange)[Learning to detect scene landmarks for camera localization](http://openaccess.thecvf.com/content/CVPR2022/html/Do_Learning_To_Detect_Scene_Landmarks_for_Camera_Localization_CVPR_2022_paper.html)
+
+![](https://img.shields.io/badge/year-2022-g)![](https://img.shields.io/badge/pub-RAL-orange)[A deep feature aggregation network for accurate indoor camera localization](https://ieeexplore.ieee.org/abstract/document/9697338/)
+
+#### point cloud Reconstruction
+
+![](https://img.shields.io/badge/year-2016-g)![](https://img.shields.io/badge/pub-IROS-orange)[Monocular camera localization in 3d lidar maps](https://ieeexplore.ieee.org/abstract/document/7759304/)
+
+![](https://img.shields.io/badge/year-2018-g)![](https://img.shields.io/badge/pub-IROS-orange)[Stereo camera localization in 3d lidar maps](https://ieeexplore.ieee.org/abstract/document/8594362/)
+
+![](https://img.shields.io/badge/year-2019-g)![](https://img.shields.io/badge/pub-CAVW-orange)[Scale-aware camera localization in 3d lidar maps with a monocular visual odometry](https://onlinelibrary.wiley.com/doi/abs/10.1002/cav.1879)
+
+![](https://img.shields.io/badge/year-2020-g)![](https://img.shields.io/badge/pub-ISPRS-orange)[3D map-guided single indoor image localization refinement](https://www.sciencedirect.com/science/article/pii/S0924271620300083)
+
+![](https://img.shields.io/badge/year-2021-g)![](https://img.shields.io/badge/pub-CVPR-orange)[DeepI2P: image-to-point cloud registration via deep classification](http://openaccess.thecvf.com/content/CVPR2021/html/Li_DeepI2P_Image-to-Point_Cloud_Registration_via_Deep_Classification_CVPR_2021_paper.html) |[code](https://github.com/lijx10/DeepI2P)![](https://img.shields.io/github/stars/lijx10/DeepI2P?style=social)
+
+![](https://img.shields.io/badge/year-2021-g)![](https://img.shields.io/badge/pub-Remote_Sens.-orange)[Autonomous vehicle localization with prior visual point cloud map constraints in gnss-challenged environments]()
+
+![](https://img.shields.io/badge/year-2022-g)![](https://img.shields.io/badge/pub-RAL-orange)[Mobile robot localization considering uncertainty of depth regression from camera images](https://ieeexplore.ieee.org/abstract/document/9669107/)
+
+## Visual relocalization in Dense Boundary Representation Maps
+
+### Mesh map
+
+![](https://img.shields.io/badge/year-2015-g)![](https://img.shields.io/badge/pub-ICRA-orange)[FARLAP: fast robust localisation using appearance priors](https://ieeexplore.ieee.org/abstract/document/7140093/)
+
+![](https://img.shields.io/badge/year-2021-g)![](https://img.shields.io/badge/pub-ECMR-orange)[Monocular localization in feature-annotated 3d polygon maps](https://ieeexplore.ieee.org/abstract/document/9568810/)
+
+### Surfel Map
+
+![](https://img.shields.io/badge/year-2020-g)![](https://img.shields.io/badge/pub-ICRA-orange)[Monocular direct sparse localization in a prior 3d surfel map](https://ieeexplore.ieee.org/abstract/document/9197022/)
+
+![](https://img.shields.io/badge/year-2021-g)![](https://img.shields.io/badge/pub-ICRA-orange)[3D surfel map-aided visual relocalization with learned descriptors](https://ieeexplore.ieee.org/abstract/document/9561005/)
+
+### SDF Map
+
+![](https://img.shields.io/badge/year-2019-g)![](https://img.shields.io/badge/pub-IROS-orange)[Metric monocular localization using signed distance fields](https://ieeexplore.ieee.org/abstract/document/8968033/)
+
+![](https://img.shields.io/badge/year-2021-g)![](https://img.shields.io/badge/pub-RAL-orange)[ Freetures: localization in signed distance function map](https://ieeexplore.ieee.org/abstract/document/9327493/)
+
