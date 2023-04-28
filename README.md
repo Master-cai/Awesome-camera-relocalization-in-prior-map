@@ -302,3 +302,69 @@ A list of visual(camera) re-localization researches. Visual relocalization refer
 
 ![](https://img.shields.io/badge/year-2021-g)![](https://img.shields.io/badge/pub-RAL-orange)[ Freetures: localization in signed distance function map](https://ieeexplore.ieee.org/abstract/document/9327493/)
 
+## Visual relocalization in high definition(HD) Map
+
+![](https://img.shields.io/badge/year-2013-g)![](https://img.shields.io/badge/pub-IROS-orange)[Light-weight localization for vehicles using road markings](https://ieeexplore.ieee.org/abstract/document/6696460/)
+
+![](https://img.shields.io/badge/year-2013-g)![](https://img.shields.io/badge/pub-IV-orange)[LaneLoc: lane marking based localization using highly accurate maps](https://ieeexplore.ieee.org/abstract/document/6629509/)
+
+![](https://img.shields.io/badge/year-2014-g)![](https://img.shields.io/badge/pub-IV-orange)[Monocular visual localization using road structural features](https://ieeexplore.ieee.org/abstract/document/6856539/)
+
+![](https://img.shields.io/badge/year-2016-g)![](https://img.shields.io/badge/pub-IROS-orange)[Pole-based localization for autonomous vehicles in urban scenarios](https://ieeexplore.ieee.org/abstract/document/7759339/)
+
+![](https://img.shields.io/badge/year-2017-g)![](https://img.shields.io/badge/pub-IV-orange)[ Improving vehicle localization using semantic and pole-like landmarks](https://ieeexplore.ieee.org/abstract/document/7995692/)
+
+![](https://img.shields.io/badge/year-2017-g)![](https://img.shields.io/badge/pub-IV-orange)[Monocular localization in urban environments using road markings](https://ieeexplore.ieee.org/abstract/document/7995762/)
+
+![](https://img.shields.io/badge/year-2020-g)![](https://img.shields.io/badge/pub-IROS-orange)[Monocular localization in hd maps by combining semantic segmentation and distance transform](https://ieeexplore.ieee.org/abstract/document/9341003/)
+
+![](https://img.shields.io/badge/year-2020-g)![](https://img.shields.io/badge/pub-JAT-orange)[In-lane localization and ego-lane identification method based on highway lane endpoints](https://www.hindawi.com/journals/jat/2020/8684912/)
+
+![](https://img.shields.io/badge/year-2020-g)![](https://img.shields.io/badge/pub-Sensors-orange)[ Monocular localization with vector hd map (mlvhm): a low-cost method for commercial ivs](https://www.mdpi.com/1424-8220/20/7/1870)
+
+![](https://img.shields.io/badge/year-2021-g)![](https://img.shields.io/badge/pub-IROS-orange)[Coarse-to-fine semantic localization with hd map for autonomous driving in structural scenes](https://ieeexplore.ieee.org/abstract/document/9635923/)
+
+![](https://img.shields.io/badge/year-2021-g)![](https://img.shields.io/badge/pub-IROS-orange)[BSP-monoloc: basic semantic primitives based monocular localization on roads](https://ieeexplore.ieee.org/abstract/document/9636321/)
+
+![](https://img.shields.io/badge/year-2022-g)![](https://img.shields.io/badge/pub-ICRA-orange)[LTSR: long-term semantic relocalization based on hd map for autonomous vehicles](https://ieeexplore.ieee.org/abstract/document/9811855/)
+
+## Visual relocalization in Semantic Maps
+
+### Semantic Global  Features
+
+![](https://img.shields.io/badge/year-2015-g)![](https://img.shields.io/badge/pub-ICCV-orange)[Lost shopping! monocular localization in large indoor spaces](https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Wang_Lost_Shopping_Monocular_ICCV_2015_paper.html)
+
+![](https://img.shields.io/badge/year-2016-g)![](https://img.shields.io/badge/pub-ICRA-orange)[Do you see the bakery? leveraging geo-referenced texts for global localization in public maps](https://ieeexplore.ieee.org/abstract/document/7487688/)
+
+![](https://img.shields.io/badge/year-2018-g)![](https://img.shields.io/badge/pub-CVPR-orange)[Semantic visual localization](http://openaccess.thecvf.com/content_cvpr_2018/html/Schonberger_Semantic_Visual_Localization_CVPR_2018_paper.html)
+
+![](https://img.shields.io/badge/year-2018-g)![](https://img.shields.io/badge/pub-CVPR-orange)[DeLS-3d: deep localization and segmentation with a 3d semantic map](http://openaccess.thecvf.com/content_cvpr_2018/html/Wang_DeLS-3D_Deep_Localization_CVPR_2018_paper.html) |[code](https://github.com/pengwangucla/DeLS-3D)![](https://img.shields.io/github/stars/pengwangucla/DeLS-3D?style=social)
+
+![](https://img.shields.io/badge/year-2022-g)![](https://img.shields.io/badge/pub-CVPRW-orange)[Semantic pose verification for outdoor visual localization with self-supervised contrastive learning](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/html/Orhan_Semantic_Pose_Verification_for_Outdoor_Visual_Localization_With_Self-Supervised_Contrastive_CVPRW_2022_paper.html)
+
+![](https://img.shields.io/badge/year-2022-g)![](https://img.shields.io/badge/pub-ESTIJ-orange)[Long-term image-based vehicle localization improved with learnt semantic descriptors](https://www.sciencedirect.com/science/article/pii/S2215098622000064)
+
+### Semantic Feature matching
+
+![](https://img.shields.io/badge/year-2018-g)![](https://img.shields.io/badge/pub-ECCV-orange)[Semantic match consistency for long-term visual localization](http://openaccess.thecvf.com/content_ECCV_2018/html/Carl_Toft_Semantic_Match_Consistency_ECCV_2018_paper.html)
+
+![](https://img.shields.io/badge/year-2018-g)![](https://img.shields.io/badge/pub-ICRA-orange)[Long-term visual localization using semantically segmented images](https://ieeexplore.ieee.org/abstract/document/8463150/)
+
+![](https://img.shields.io/badge/year-2019-g)![](https://img.shields.io/badge/pub-ICCV-orange)[Fine-grained segmentation networks: self-supervised segmentation for improved long-term visual localization](http://openaccess.thecvf.com/content_ICCV_2019/html/Larsson_Fine-Grained_Segmentation_Networks_Self-Supervised_Segmentation_for_Improved_Long-Term_Visual_Localization_ICCV_2019_paper.html) |[code](https://github.com/maunzzz/fine-grained-segmentation-networks)![](https://img.shields.io/github/stars/maunzzz/fine-grained-segmentation-networks?style=social)
+
+![](https://img.shields.io/badge/year-2022-g)![](https://img.shields.io/badge/pub-ICRA-orange)[SemLoc: accurate and robust visual localization with semantic and structural constraints from prior maps](https://ieeexplore.ieee.org/abstract/document/9811925/)
+
+### Robust Feature Selection
+
+![](https://img.shields.io/badge/year-2015-g)![](https://img.shields.io/badge/pub-ICRA-orange)[Semantically guided location recognition for outdoors scenes](https://ieeexplore.ieee.org/abstract/document/7139877/)
+
+![](https://img.shields.io/badge/year-2017-g)![](https://img.shields.io/badge/pub-ICRA-orange)[Semantics-aware visual localization under challenging perceptual conditions](https://ieeexplore.ieee.org/abstract/document/7989305/)
+
+![](https://img.shields.io/badge/year-2018-g)![](https://img.shields.io/badge/pub-IROS-orange)[VLASE: vehicle localization by aggregating semantic edges](https://ieeexplore.ieee.org/abstract/document/8594358/) |[code](https://github.com/sagachat/VLASE)![](https://img.shields.io/github/stars/sagachat/VLASE?style=social)
+
+![](https://img.shields.io/badge/year-2019-g)![](https://img.shields.io/badge/pub-BMVC-orange)[Semantically-aware attentive neural embeddings for 2d long-term visual localization](https://bmvc2019.org/wp-content/uploads/papers/0443-paper.pdf)
+
+![](https://img.shields.io/badge/year-2022-g)![](https://img.shields.io/badge/pub-ICRA-orange)[PixSelect: less but reliable pixels for accurate and efficient localization](https://ieeexplore.ieee.org/abstract/document/9812345/)
+
+## Dataset
+
