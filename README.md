@@ -366,5 +366,61 @@ A list of visual(camera) re-localization researches. Visual relocalization refer
 
 ![](https://img.shields.io/badge/year-2022-g)![](https://img.shields.io/badge/pub-ICRA-orange)[PixSelect: less but reliable pixels for accurate and efficient localization](https://ieeexplore.ieee.org/abstract/document/9812345/)
 
+## Visual relocalization in NeRF map
+
+![](https://img.shields.io/badge/year-2023-g)![](https://img.shields.io/badge/pub-ICRA-orange)[NeRF-Loc: Visual Localization with Conditional Neural Radiance Field](https://arxiv.org/abs/2304.07979)
+
 ## Dataset
+
+### Outdoor
+
+![](https://img.shields.io/badge/year-2010-g)![](https://img.shields.io/badge/pub-ECCV-orange)[Accurate image localization based on google maps street view](https://link.springer.com/chapter/10.1007/978-3-642-15561-1_19)
+
+![](https://img.shields.io/badge/year-2011-g)![](https://img.shields.io/badge/pub-CVPR-orange)[San francisco](https://ieeexplore.ieee.org/abstract/document/5995610/) |[page](https://sites.google.com/site/chenmodavid/datasets)
+
+![](https://img.shields.io/badge/year-2012-g)![](https://img.shields.io/badge/pub-ECCV-orange)[Dubrovnik 6K](https://link.springer.com/chapter/10.1007/978-3-319-25781-5_8) |[page](https://mldta.com/dataset/dubrovnik6k-and-rome16k/)
+
+![](https://img.shields.io/badge/year-2013-g)![](https://img.shields.io/badge/pub-IJRR-orange)[KITTI](https://journals.sagepub.com/doi/pdf/10.1177/0278364913491297) |[page](https://www.cvlibs.net/datasets/kitti/)
+
+![](https://img.shields.io/badge/year-2015-g)![](https://img.shields.io/badge/pub-ICCV-orange)[Cambridge](http://openaccess.thecvf.com/content_iccv_2015/html/Kendall_PoseNet_A_Convolutional_ICCV_2015_paper.html) |[page](https://www.repository.cam.ac.uk/handle/1810/251342)
+
+![](https://img.shields.io/badge/year-2016-g)![](https://img.shields.io/badge/pub-CVPR-orange)[Cityscape](http://openaccess.thecvf.com/content_cvpr_2016/html/Cordts_The_Cityscapes_Dataset_CVPR_2016_paper.html) |[page](https://www.cityscapes-dataset.com/dataset-overview/)
+
+![](https://img.shields.io/badge/year-2016-g)![](https://img.shields.io/badge/pub-IJRR-orange)[NCLT](https://journals.sagepub.com/doi/pdf/10.1177/0278364915614638) |[page](http://robots.engin.umich.edu/nclt/)
+
+![](https://img.shields.io/badge/year-2017-g)![](https://img.shields.io/badge/pub-IJRR-orange)[Oxford-robotcar](https://journals.sagepub.com/doi/pdf/10.1177/0278364916679498) |[page](http://robotcar-dataset.robots.ox.ac.uk/)
+
+![](https://img.shields.io/badge/year-2018-g)![](https://img.shields.io/badge/pub-CVPR-orange)[Aachen Day-Night](http://openaccess.thecvf.com/content_cvpr_2018/html/Sattler_Benchmarking_6DOF_Outdoor_CVPR_2018_paper.html) |[page](http://visuallocalization.net/)
+
+![](https://img.shields.io/badge/year-2018-g)![](https://img.shields.io/badge/pub-CVPR-orange)[CMU Seasons](http://openaccess.thecvf.com/content_cvpr_2018/html/Sattler_Benchmarking_6DOF_Outdoor_CVPR_2018_paper.html) |[page](https://www.visuallocalization.net/datasets/)
+
+![](https://img.shields.io/badge/year-2018-g)![](https://img.shields.io/badge/pub-CVPRW-orange)[Apollo Scape](https://openaccess.thecvf.com/content_cvpr_2018_workshops/w14/html/Huang_The_ApolloScape_Dataset_CVPR_2018_paper.html) |[page](https://apolloscape.auto/)
+
+![](https://img.shields.io/badge/year-2018-g)![](https://img.shields.io/badge/pub-TITS-orange)[KAIST Day/Night](https://ieeexplore.ieee.org/abstract/document/8293689/) |[page](https://github.com/sejong-rcv/CVPRW2015.PlaceRecognition)
+
+![](https://img.shields.io/badge/year-2019-g)![](https://img.shields.io/badge/pub-ICCV-orange)[SemanticKITTI](http://openaccess.thecvf.com/content_ICCV_2019/html/Behley_SemanticKITTI_A_Dataset_for_Semantic_Scene_Understanding_of_LiDAR_Sequences_ICCV_2019_paper.html) |[page](http://www.semantic-kitti.org/)
+
+![](https://img.shields.io/badge/year-2020-g)![](https://img.shields.io/badge/pub-CVPR-orange)[nuScenes](http://openaccess.thecvf.com/content_CVPR_2020/html/Caesar_nuScenes_A_Multimodal_Dataset_for_Autonomous_Driving_CVPR_2020_paper.html) |[page](https://www.nuscenes.org/)
+
+![](https://img.shields.io/badge/year-2022-g)![](https://img.shields.io/badge/pub-CVPR-orange)[SF-XL](http://openaccess.thecvf.com/content/CVPR2022/html/Berton_Rethinking_Visual_Geo-Localization_for_Large-Scale_Applications_CVPR_2022_paper.html) |[page](https://github.com/gmberton/cosplace)
+
+### Indoor
+
+![](https://img.shields.io/badge/year-2012-g)![](https://img.shields.io/badge/pub-IROS-orange)[TUM-RGBD](https://ieeexplore.ieee.org/abstract/document/6385773/) |[page](https://vision.in.tum.de/data/datasets/rgbd-dataset)
+
+![](https://img.shields.io/badge/year-2013-g)![](https://img.shields.io/badge/pub-CVPR-orange)[7 scenes](http://openaccess.thecvf.com/content_cvpr_2013/html/Shotton_Scene_Coordinate_Regression_2013_CVPR_paper.html) |[page](https://www.microsoft.com/en-us/research/project/rgb-d-dataset-7-scenes/)
+
+![](https://img.shields.io/badge/year-2016-g)![](https://img.shields.io/badge/pub-3DV-orange)[SceneNN](https://ieeexplore.ieee.org/abstract/document/7785081/) |[page](http://103.24.77.34/scenenn/home/)
+
+![](https://img.shields.io/badge/year-2016-g)![](https://img.shields.io/badge/pub-IJRR-orange)[EuRoC MAV](https://journals.sagepub.com/doi/pdf/10.1177/0278364915620033) |[page](https://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets)
+
+![](https://img.shields.io/badge/year-2017-g)![](https://img.shields.io/badge/pub-CVPR-orange)[3DMatch](http://openaccess.thecvf.com/content_cvpr_2017/html/Zeng_3DMatch_Learning_Local_CVPR_2017_paper.html) |[page](http://3dmatch.cs.princeton.edu/)
+
+![](https://img.shields.io/badge/year-2018-g)![](https://img.shields.io/badge/pub-ECCV-orange)[ADVIO](http://openaccess.thecvf.com/content_ECCV_2018/html/Santiago_Cortes_ADVIO_An_Authentic_ECCV_2018_paper.html) |[page](https://github.com/AaltoVision/ADVIO)
+
+### Misc
+
+![](https://img.shields.io/badge/year-2017-g)![](https://img.shields.io/badge/pub-ICCV-orange)[SceneNet RGB-D](http://openaccess.thecvf.com/content_iccv_2017/html/McCormac_SceneNet_RGB-D_Can_ICCV_2017_paper.html) |[page](https://robotvault.bitbucket.io/scenenet-rgbd.html)
+
+![](https://img.shields.io/badge/year-2022-g)![](https://img.shields.io/badge/pub-ECCV-orange)[LaMAR](https://link.springer.com/chapter/10.1007/978-3-031-20071-7_40) |[page](https://lamar.ethz.ch/)
 
