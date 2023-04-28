@@ -3,6 +3,9 @@
 A list of visual(camera) re-localization researches. Visual relocalization refers to the problem of estimating the position and orientation using the information of an existing prior map based on the image captured from visual sensors. We sort out  these methods according to the type of map, mainly including image databases and point cloud maps.
 
 [toc]
+<!--ts-->
+<!--te-->
+
 
 ## Surveys
 
