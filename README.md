@@ -1,6 +1,10 @@
 # Awesome-camera-relocalization-in-prior-map
 
-A list of visual(camera) re-localization researches. Visual relocalization refers to the problem of estimating the position and orientation using the information of an existing prior map based on the image captured from visual sensors. We sort out  these methods according to the type of map, mainly including image databases and point cloud maps.
+A list of visual(camera) re-localization researches. Visual relocalization refers to the problem of estimating the position and orientation using the information of an existing prior map based on the image captured from visual sensors. We sort out  these methods according to the type of map, mainly focusing on image databases and point cloud maps.
+
+**This document will be continuously updated and there may inevitably be errors and omissions. Please feel free to point them out through issues or pull requests.**
+
+---
 
 - [Awesome-camera-relocalization-in-prior-map](#awesome-camera-relocalization-in-prior-map)
   - [Surveys](#surveys)
@@ -18,8 +22,8 @@ A list of visual(camera) re-localization researches. Visual relocalization refer
       - [F2P(Feature to Point) and P2F(Point to Feature)](#f2pfeature-to-point-and-p2fpoint-to-feature)
       - [Improved matching method](#improved-matching-method)
       - [2D-3D pose estimation](#2d-3d-pose-estimation)
-    - [3D $\\rightarrow$ 2D: projection methods](#3d-rightarrow-2d-projection-methods)
-    - [2D $\\rightarrow$ 3D: Scene Dimensional Upgrading](#2d-rightarrow-3d-scene-dimensional-upgrading)
+    - [3D $\rightarrow$ 2D: projection methods](#3d-rightarrow-2d-projection-methods)
+    - [2D $\rightarrow$ 3D: Scene Dimensional Upgrading](#2d-rightarrow-3d-scene-dimensional-upgrading)
       - [Scene Coordinate Regression](#scene-coordinate-regression)
       - [point cloud Reconstruction](#point-cloud-reconstruction)
   - [Visual relocalization in Dense Boundary Representation Maps](#visual-relocalization-in-dense-boundary-representation-maps)
@@ -37,14 +41,15 @@ A list of visual(camera) re-localization researches. Visual relocalization refer
     - [Indoor](#indoor)
     - [Misc](#misc)
 
-
 ## Surveys
-
-
 
 ## Visual relocalization in Image Database Maps
 
+The image database map consists of a series of images with information. The images in the image database can be captured by cameras with different intrinsic parameters. The poses of images in image databases are usually obtained  by the SfM algorithm or external measurement devices such as GPS.
+
 ### Image Retrieval
+
+The core idea of image retrieval-based methods  is to first search for the reference image that is most similar to the query image from the image database. Then, based on the relative pose relationship between the query image and the reference image, as well as the pose label of the reference image, the pose information of the query image is calculated.
 
 #### Image retrieval methods
 
@@ -54,23 +59,23 @@ A list of visual(camera) re-localization researches. Visual relocalization refer
 
 ![](https://img.shields.io/badge/year-2010-g)![](https://img.shields.io/badge/pub-CVPR-orange)[Aggregating local descriptors into a compact image representation](https://ieeexplore.ieee.org/abstract/document/5540039/) |[code](https://github.com/raulmur/ORB_SLAM2)
 
-![](https://img.shields.io/badge/year-2011-g)![](https://img.shields.io/badge/pub-IROS-orange)[Real-time loop detection with bags of binary words](https://ieeexplore.ieee.org/abstract/document/6094885/) 
+![](https://img.shields.io/badge/year-2011-g)![](https://img.shields.io/badge/pub-IROS-orange)[Real-time loop detection with bags of binary words](https://ieeexplore.ieee.org/abstract/document/6094885/)
 
-![](https://img.shields.io/badge/year-2011-g)![](https://img.shields.io/badge/pub-ICCVW-orange)[Automatic alignment of paintings and photographs depicting a 3d scene](https://ieeexplore.ieee.org/abstract/document/6130291/) 
+![](https://img.shields.io/badge/year-2011-g)![](https://img.shields.io/badge/pub-ICCVW-orange)[Automatic alignment of paintings and photographs depicting a 3d scene](https://ieeexplore.ieee.org/abstract/document/6130291/)
 
-![](https://img.shields.io/badge/year-2014-g)![](https://img.shields.io/badge/pub-ICRA-orange)[Fast relocalisation and loop closing in keyframe-based slam](https://ieeexplore.ieee.org/abstract/document/6906953/) 
+![](https://img.shields.io/badge/year-2014-g)![](https://img.shields.io/badge/pub-ICRA-orange)[Fast relocalisation and loop closing in keyframe-based slam](https://ieeexplore.ieee.org/abstract/document/6906953/)
 
-![](https://img.shields.io/badge/year-2015-g)![](https://img.shields.io/badge/pub-CVPR-orange)[24/7 place recognition by view synthesis](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Torii_247_Place_Recognition_2015_CVPR_paper.html) 
+![](https://img.shields.io/badge/year-2015-g)![](https://img.shields.io/badge/pub-CVPR-orange)[24/7 place recognition by view synthesis](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Torii_247_Place_Recognition_2015_CVPR_paper.html)
 
 ![](https://img.shields.io/badge/year-2016-g)![](https://img.shields.io/badge/pub-CVPR-orange)[NetVLAD: cnn architecture for weakly supervised place recognition](http://openaccess.thecvf.com/content_cvpr_2016/html/Arandjelovic_NetVLAD_CNN_Architecture_CVPR_2016_paper.html) |[code](https://github.com/Relja/netvlad)![](https://img.shields.io/github/stars/Relja/netvlad?style=social)
 
 ![](https://img.shields.io/badge/year-2016-g)![](https://img.shields.io/badge/pub-ECCV-orange)[CNN image retrieval learns from bow: unsupervised fine-tuning with hard examples](https://link.springer.com/chapter/10.1007/978-3-319-46448-0_1) |[code](https://github.com/filipradenovic/cnnimageretrieval-pytorch)
 
-![](https://img.shields.io/badge/year-2016-g)![](https://img.shields.io/badge/pub-BMVC-orange)[Filtering 3d keypoints using gist for accurate image-based localization](http://www.bmva.org/bmvc/2016/papers/paper127/paper127.pdf) 
+![](https://img.shields.io/badge/year-2016-g)![](https://img.shields.io/badge/pub-BMVC-orange)[Filtering 3d keypoints using gist for accurate image-based localization](http://www.bmva.org/bmvc/2016/papers/paper127/paper127.pdf)
 
 ![](https://img.shields.io/badge/year-2017-g)![](https://img.shields.io/badge/pub-TRO-orange)[Orb-slam2: An open-source slam system for monocular, stereo, and rgb-d cameras](https://ieeexplore.ieee.org/abstract/document/7946260/) |[code](https://github.com/raulmur/ORB_SLAM2)
 
-![](https://img.shields.io/badge/year-2018-g)![](https://img.shields.io/badge/pub-ECCV-orange)[RelocNet: continuous metric learning relocalisation using neural nets](http://openaccess.thecvf.com/content_ECCV_2018/papers/Vassileios_Balntas_RelocNet_Continous_Metric_ECCV_2018_paper.pdf) 
+![](https://img.shields.io/badge/year-2018-g)![](https://img.shields.io/badge/pub-ECCV-orange)[RelocNet: continuous metric learning relocalisation using neural nets](http://openaccess.thecvf.com/content_ECCV_2018/papers/Vassileios_Balntas_RelocNet_Continous_Metric_ECCV_2018_paper.pdf)
 
 ![](https://img.shields.io/badge/year-2019-g)![](https://img.shields.io/badge/pub-ECCV-orange)[NeXtVLAD: an efficient neural network to aggregate frame-level features for large-scale video classification](https://openaccess.thecvf.com/content_eccv_2018_workshops/w22/html/Lin_NeXtVLAD_An_Efficient_Neural_Network_to_Aggregate_Frame-level_Features_for_ECCVW_2018_paper.html) |[code](https://github.com/linrongc/youtube-8m)
 
@@ -115,6 +120,8 @@ A list of visual(camera) re-localization researches. Visual relocalization refer
 ![](https://img.shields.io/badge/year-2021-g)![](https://img.shields.io/badge/pub-KBS-orange)[A deep learning based image enhancement approach for autonomous driving at night](https://www.sciencedirect.com/science/article/pii/S0950705120307462)
 
 ### Pose Regression
+
+The pose regression method extracts high-dimensional features of the query image through an end-to-end deep neural network, and then uses the high-dimensional features to directly regress the camera pose. We classify them based on different input.
 
 #### monocular camera
 
@@ -168,6 +175,8 @@ A list of visual(camera) re-localization researches. Visual relocalization refer
 
 ## Visual relocalization in Point Cloud Maps
 
+Point cloud  maps consist of a series of unordered points with three-dimensional coordinates in 3D space. Since the query image and the point cloud map are of different modalities, they cannot be directly compared. The key issue is how to establish data association. Existing methods are divided into three categories：(1) Feature based method(Visual Point Cloud): match by image features; (2): 3D $\rightarrow$ 2D: Project 3D point cloud to an image and then match. (3): 2D$\rightarrow$ 3D: Convert 2D image to 3D scene data.
+
 ### Feature based method(Visual Point Cloud)
 
 #### F2P(Feature to Point) and P2F(Point to Feature)
@@ -184,7 +193,7 @@ A list of visual(camera) re-localization researches. Visual relocalization refer
 
 ![](https://img.shields.io/badge/year-2017-g)![](https://img.shields.io/badge/pub-ICCV-orange)[Efficient global 2d-3d matching for camera localization in a large-scale 3d map](http://openaccess.thecvf.com/content_iccv_2017/html/Liu_Efficient_Global_2D-3D_ICCV_2017_paper.html)
 
-![](https://img.shields.io/badge/year-2017-g)![](https://img.shields.io/badge/pub-TPAMI-orange)[Efficient & effective prioritized matching for large-scale image-based localization](https://ieeexplore.ieee.org/abstract/document/7572201/)
+![](https://img.shields.io/badge/year-2017-g)![](https://img.shields.io/badge/pub-TPAMI-orange)[Efficient &amp; effective prioritized matching for large-scale image-based localization](https://ieeexplore.ieee.org/abstract/document/7572201/)
 
 #### Improved matching method
 
@@ -457,4 +466,3 @@ A list of visual(camera) re-localization researches. Visual relocalization refer
 ![](https://img.shields.io/badge/year-2017-g)![](https://img.shields.io/badge/pub-ICCV-orange)[SceneNet RGB-D](http://openaccess.thecvf.com/content_iccv_2017/html/McCormac_SceneNet_RGB-D_Can_ICCV_2017_paper.html) |[page](https://robotvault.bitbucket.io/scenenet-rgbd.html)
 
 ![](https://img.shields.io/badge/year-2022-g)![](https://img.shields.io/badge/pub-ECCV-orange)[LaMAR](https://link.springer.com/chapter/10.1007/978-3-031-20071-7_40) |[page](https://lamar.ethz.ch/)
-
