@@ -2,9 +2,40 @@
 
 A list of visual(camera) re-localization researches. Visual relocalization refers to the problem of estimating the position and orientation using the information of an existing prior map based on the image captured from visual sensors. We sort out  these methods according to the type of map, mainly including image databases and point cloud maps.
 
-[toc]
-<!--ts-->
-<!--te-->
+- [Awesome-camera-relocalization-in-prior-map](#awesome-camera-relocalization-in-prior-map)
+  - [Surveys](#surveys)
+  - [Visual relocalization in Image Database Maps](#visual-relocalization-in-image-database-maps)
+    - [Image Retrieval](#image-retrieval)
+      - [Image retrieval methods](#image-retrieval-methods)
+      - [Feature matching and pose estimation](#feature-matching-and-pose-estimation)
+      - [Image appearance normalization](#image-appearance-normalization)
+    - [Pose Regression](#pose-regression)
+      - [monocular camera](#monocular-camera)
+      - [sequence images](#sequence-images)
+      - [RGBD image](#rgbd-image)
+  - [Visual relocalization in Point Cloud Maps](#visual-relocalization-in-point-cloud-maps)
+    - [Feature based method(Visual Point Cloud)](#feature-based-methodvisual-point-cloud)
+      - [F2P(Feature to Point) and P2F(Point to Feature)](#f2pfeature-to-point-and-p2fpoint-to-feature)
+      - [Improved matching method](#improved-matching-method)
+      - [2D-3D pose estimation](#2d-3d-pose-estimation)
+    - [3D $\\rightarrow$ 2D: projection methods](#3d-rightarrow-2d-projection-methods)
+    - [2D $\\rightarrow$ 3D: Scene Dimensional Upgrading](#2d-rightarrow-3d-scene-dimensional-upgrading)
+      - [Scene Coordinate Regression](#scene-coordinate-regression)
+      - [point cloud Reconstruction](#point-cloud-reconstruction)
+  - [Visual relocalization in Dense Boundary Representation Maps](#visual-relocalization-in-dense-boundary-representation-maps)
+    - [Mesh map](#mesh-map)
+    - [Surfel Map](#surfel-map)
+    - [SDF Map](#sdf-map)
+  - [Visual relocalization in high definition(HD) Map](#visual-relocalization-in-high-definitionhd-map)
+  - [Visual relocalization in Semantic Maps](#visual-relocalization-in-semantic-maps)
+    - [Semantic Global  Features](#semantic-global--features)
+    - [Semantic Feature matching](#semantic-feature-matching)
+    - [Robust Feature Selection](#robust-feature-selection)
+  - [Visual relocalization in NeRF map](#visual-relocalization-in-nerf-map)
+  - [Dataset](#dataset)
+    - [Outdoor](#outdoor)
+    - [Indoor](#indoor)
+    - [Misc](#misc)
 
 
 ## Surveys
