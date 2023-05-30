@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Semantic visual localization",
+        "pub": "CVPR",
+        "year": 2018,
+        "url": "http://openaccess.thecvf.com/content_cvpr_2018/html/Schonberger_Semantic_Visual_Localization_CVPR_2018_paper.html", 
+        "code": ""
+    },
+    {
+        "title": "Long-term image-based vehicle localization improved with learnt semantic descriptors",
+        "pub": "ESTIJ",
+        "year": 2022,
+        "url": "https://www.sciencedirect.com/science/article/pii/S2215098622000064", 
+        "code": ""
+    },
+    {
+        "title": "Semantic pose verification for outdoor visual localization with self-supervised contrastive learning",
+        "pub": "CVPRW",
+        "year": 2022,
+        "url": "https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/html/Orhan_Semantic_Pose_Verification_for_Outdoor_Visual_Localization_With_Self-Supervised_Contrastive_CVPRW_2022_paper.html", 
+        "code": ""
+    },
+    {
+        "title": "DeLS-3d: deep localization and segmentation with a 3d semantic map",
+        "pub": "CVPR",
+        "year": 2018,
+        "url": "http://openaccess.thecvf.com/content_cvpr_2018/html/Wang_DeLS-3D_Deep_Localization_CVPR_2018_paper.html", 
+        "code": "https://github.com/pengwangucla/DeLS-3D"
+    },
+    {
+        "title": "Lost shopping! monocular localization in large indoor spaces",
+        "pub": "ICCV",
+        "year": 2015,
+        "url": "https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Wang_Lost_Shopping_Monocular_ICCV_2015_paper.html", 
+        "code": ""
+    },
+    {
+        "title": "Do you see the bakery? leveraging geo-referenced texts for global localization in public maps",
+        "pub": "ICRA",
+        "year": 2016,
+        "url": "https://ieeexplore.ieee.org/abstract/document/7487688/", 
+        "code": ""
+    }
+]

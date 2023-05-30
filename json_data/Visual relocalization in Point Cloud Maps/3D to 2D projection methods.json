@@ -1,0 +1,65 @@
+[ 
+    {
+        "title": "Automatic registration of lidar and optical images of urban scenes",
+        "pub": "CVPR",
+        "year": 2009,
+        "url": "https://ieeexplore.ieee.org/abstract/document/5206539/", 
+        "code": ""
+    },
+    {
+        "title": "LAPS - localisation using appearance of prior structure: 6-dof monocular camera localisation using prior pointclouds",
+        "pub": "ICRA",
+        "year": 2012,
+        "url": "https://ieeexplore.ieee.org/abstract/document/6224750/", 
+        "code": ""
+    },
+    {
+        "title": "Robust direct visual localisation using normalised information distance",
+        "pub": "BMVC",
+        "year": 2015,
+        "url": "https://www.robots.ox.ac.uk/~mobile/Papers/2015BMVC_Pascoe.pdf", 
+        "code": ""
+    },
+    {
+        "title": "Visual localization within lidar maps for automated urban driving",
+        "pub": "IROS",
+        "year": 2014,
+        "url": "https://ieeexplore.ieee.org/abstract/document/6942558/", 
+        "code": ""
+    },
+    {
+        "title": "Sampling-based methods for visual navigation in 3d maps by synthesizing depth images",
+        "pub": "IROS",
+        "year": 2017,
+        "url": "https://ieeexplore.ieee.org/abstract/document/8206067/", 
+        "code": ""
+    },
+    {
+        "title": "CMRNet: camera to lidar-map registration",
+        "pub": "ITSC",
+        "year": 2019,
+        "url": "https://ieeexplore.ieee.org/abstract/document/8917470/", 
+        "code": "https://github.com/cattaneod/CMRNet"
+    },
+    {
+        "title": "Convolutional neural network-based coarse initial position estimation of a monocular camera in large-scale 3D light detection and ranging maps",
+        "pub": "IJARS",
+        "year": 2019,
+        "url": "https://journals.sagepub.com/doi/pdf/10.1177/1729881419893518", 
+        "code": ""
+    },
+    {
+        "title": "CPO: change robust panorama to point cloud localization",
+        "pub": "ECCV",
+        "year": 2022,
+        "url": "https://link.springer.com/chapter/10.1007/978-3-031-20077-9_11", 
+        "code": ""
+    },
+    {
+        "title": "Global visual localization in lidar-maps through shared 2d-3d embedding space",
+        "pub": "ICRA",
+        "year": 2020,
+        "url": "https://ieeexplore.ieee.org/abstract/document/9196859/", 
+        "code": ""
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "title": "Light-weight localization for vehicles using road markings",
+        "pub": "IROS",
+        "year": 2013,
+        "url": "https://ieeexplore.ieee.org/abstract/document/6696460/", 
+        "code": ""
+    },
+    {
+        "title": "LaneLoc: lane marking based localization using highly accurate maps",
+        "pub": "IV",
+        "year": 2013,
+        "url": "https://ieeexplore.ieee.org/abstract/document/6629509/", 
+        "code": ""
+    },
+    {
+        "title": "Monocular visual localization using road structural features",
+        "pub": "IV",
+        "year": 2014,
+        "url": "https://ieeexplore.ieee.org/abstract/document/6856539/", 
+        "code": ""
+    },
+    {
+        "title": " Improving vehicle localization using semantic and pole-like landmarks",
+        "pub": "IV",
+        "year": 2017,
+        "url": "https://ieeexplore.ieee.org/abstract/document/7995692/", 
+        "code": ""
+    },
+    {
+        "title": "Pole-based localization for autonomous vehicles in urban scenarios",
+        "pub": "IROS",
+        "year": 2016,
+        "url": "https://ieeexplore.ieee.org/abstract/document/7759339/", 
+        "code": ""
+    },
+    {
+        "title": " Monocular localization with vector hd map (mlvhm): a low-cost method for commercial ivs",
+        "pub": "Sensors",
+        "year": 2020,
+        "url": "https://www.mdpi.com/1424-8220/20/7/1870", 
+        "code": ""
+    },
+    {
+        "title": "Coarse-to-fine semantic localization with hd map for autonomous driving in structural scenes",
+        "pub": "IROS",
+        "year": 2021,
+        "url": "https://ieeexplore.ieee.org/abstract/document/9635923/", 
+        "code": ""
+    },
+    {
+        "title": "Monocular localization in hd maps by combining semantic segmentation and distance transform",
+        "pub": "IROS",
+        "year": 2020,
+        "url": "https://ieeexplore.ieee.org/abstract/document/9341003/", 
+        "code": ""
+    },
+    {
+        "title": "BSP-monoloc: basic semantic primitives based monocular localization on roads",
+        "pub": "IROS",
+        "year": 2021,
+        "url": "https://ieeexplore.ieee.org/abstract/document/9636321/", 
+        "code": ""
+    },
+    {
+        "title": "LTSR: long-term semantic relocalization based on hd map for autonomous vehicles",
+        "pub": "ICRA",
+        "year": 2022,
+        "url": "https://ieeexplore.ieee.org/abstract/document/9811855/", 
+        "code": ""
+    },
+    {
+        "title": "Monocular localization in urban environments using road markings",
+        "pub": "IV",
+        "year": 2017,
+        "url": "https://ieeexplore.ieee.org/abstract/document/7995762/", 
+        "code": ""
+    },
+    {
+        "title": "In-lane localization and ego-lane identification method based on highway lane endpoints",
+        "pub": "JAT",
+        "year": 2020,
+        "url": "https://www.hindawi.com/journals/jat/2020/8684912/", 
+        "code": ""
+    }
+]

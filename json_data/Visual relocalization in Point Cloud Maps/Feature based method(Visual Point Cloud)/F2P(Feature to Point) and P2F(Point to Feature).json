@@ -1,0 +1,51 @@
+[ 
+    {
+        "title": "Monocular vision for mobile robot localization and autonomous navigation",
+        "pub": "IJCV",
+        "year": 2007,
+        "url": "https://hal.science/hal-01635679/", 
+        "code": ""
+    },
+    {
+        "title": "From structure-from-motion point clouds to fast location recognition",
+        "pub": "CVPR",
+        "year": 2009,
+        "url": "https://ieeexplore.ieee.org/abstract/document/5206587/", 
+        "code": ""
+    },
+    {
+        "title": "Location recognition using prioritized feature matching",
+        "pub": "ECCV",
+        "year": 2010,
+        "url": "https://link.springer.com/chapter/10.1007/978-3-642-15552-9_57", 
+        "code": ""
+    },
+    {
+        "title": "Fast image-based localization using direct 2d-to-3d matching",
+        "pub": "ICCV",
+        "year": 2011,
+        "url": "https://ieeexplore.ieee.org/abstract/document/6126302/", 
+        "code": ""
+    },
+    {
+        "title": "Worldwide pose estimation using 3d point clouds",
+        "pub": "ECCV",
+        "year": 2012,
+        "url": "https://link.springer.com/chapter/10.1007/978-3-319-25781-5_8", 
+        "code": ""
+    },
+    {
+        "title": "Efficient global 2d-3d matching for camera localization in a large-scale 3d map",
+        "pub": "ICCV",
+        "year": 2017,
+        "url": "http://openaccess.thecvf.com/content_iccv_2017/html/Liu_Efficient_Global_2D-3D_ICCV_2017_paper.html", 
+        "code": ""
+    },
+    {
+        "title": "Efficient & effective prioritized matching for large-scale image-based localization",
+        "pub": "TPAMI",
+        "year": 2017,
+        "url": "https://ieeexplore.ieee.org/abstract/document/7572201/", 
+        "code": ""
+    }
+]

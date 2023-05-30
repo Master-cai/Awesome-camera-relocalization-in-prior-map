@@ -1,0 +1,65 @@
+[
+    {
+        "title": "Complete solution classification for the perspective-three-point problem",
+        "pub": "TPAMI",
+        "year": 2003,
+        "url": "https://ieeexplore.ieee.org/abstract/document/1217599/", 
+        "code": ""
+    },
+    {
+        "title": " A general solution to the p4p problem for camera with unknown focal length",
+        "pub": "CVPR",
+        "year": 2008,
+        "url": "https://ieeexplore.ieee.org/abstract/document/4587793/", 
+        "code": ""
+    },
+    {
+        "title": "EPnP: an accurate o(n) solution to the pnp problem",
+        "pub": "IJCV",
+        "year": 2009,
+        "url": "https://link.springer.com/article/10.1007/s11263-008-0152-6", 
+        "code": ""
+    },
+    {
+        "title": "Direct linear transformation from comparator coordinates into object space coordinates in close-range photogrammetry",
+        "pub": "Remote Sens.",
+        "year": 2015,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0099111215303086", 
+        "code": ""
+    },
+    {
+        "title": "Bundle adjustment — a modern synthesis",
+        "pub": "IWVA",
+        "year": 1999,
+        "url": "https://link.springer.com/chapter/10.1007/3-540-44480-7_21", 
+        "code": ""
+    },
+    {
+        "title": "Random sample consensus: a paradigm for model fitting with applications to image analysis and automated cartography",
+        "pub": "Commun. ACM",
+        "year": 1981,
+        "url": "https://dl.acm.org/doi/abs/10.1145/358669.358692", 
+        "code": ""
+    },
+    {
+        "title": "Matching with prosac — progressive sample consensus",
+        "pub": "CVPR",
+        "year": 2005,
+        "url": "https://ieeexplore.ieee.org/abstract/document/1467271/", 
+        "code": ""
+    },    
+    {
+        "title": "MLESAC: a new robust estimator with application to estimating image geometry",
+        "pub": "CVIU",
+        "year": 2000,
+        "url": "https://www.sciencedirect.com/science/article/pii/S1077314299908329", 
+        "code": ""
+    },
+    {
+        "title": "USAC: a universal framework for random sample consensus",
+        "pub": "TPAMI",
+        "year": 2013,
+        "url": "https://ieeexplore.ieee.org/abstract/document/6365642/", 
+        "code": ""
+    }
+]

@@ -1,0 +1,51 @@
+[ 
+    {
+        "title": "3D map-guided single indoor image localization refinement",
+        "pub": "ISPRS",
+        "year": 2020,
+        "url": "https://www.sciencedirect.com/science/article/pii/S0924271620300083", 
+        "code": ""
+    },
+    {
+        "title": "Mobile robot localization considering uncertainty of depth regression from camera images",
+        "pub": "RAL",
+        "year": 2022,
+        "url": "https://ieeexplore.ieee.org/abstract/document/9669107/", 
+        "code": ""
+    },
+    {
+        "title": "Scale-aware camera localization in 3d lidar maps with a monocular visual odometry",
+        "pub": "CAVW",
+        "year": 2019,
+        "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/cav.1879", 
+        "code": ""
+    },
+    {
+        "title": "Monocular camera localization in 3d lidar maps",
+        "pub": "IROS",
+        "year": 2016,
+        "url": "https://ieeexplore.ieee.org/abstract/document/7759304/", 
+        "code": ""
+    },
+    {
+        "title": "Stereo camera localization in 3d lidar maps",
+        "pub": "IROS",
+        "year": 2018,
+        "url": "https://ieeexplore.ieee.org/abstract/document/8594362/", 
+        "code": ""
+    },
+    {
+        "title": "Autonomous vehicle localization with prior visual point cloud map constraints in gnss-challenged environments",
+        "pub": "Remote_Sens.",
+        "year": 2021,
+        "url": "", 
+        "code": ""
+    },
+    {
+        "title": "DeepI2P: image-to-point cloud registration via deep classification",
+        "pub": "CVPR",
+        "year": 2021,
+        "url": "http://openaccess.thecvf.com/content/CVPR2021/html/Li_DeepI2P_Image-to-Point_Cloud_Registration_via_Deep_Classification_CVPR_2021_paper.html", 
+        "code": "https://github.com/lijx10/DeepI2P"
+    }
+]

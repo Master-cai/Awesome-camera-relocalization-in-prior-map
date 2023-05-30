@@ -1,0 +1,37 @@
+[
+    {
+        "title": "VLASE: vehicle localization by aggregating semantic edges",
+        "pub": "IROS",
+        "year": 2018,
+        "url": "https://ieeexplore.ieee.org/abstract/document/8594358/", 
+        "code": "https://github.com/sagachat/VLASE"
+    },
+    {
+        "title": "Semantically-aware attentive neural embeddings for 2d long-term visual localization",
+        "pub": "BMVC",
+        "year": 2019,
+        "url": "https://bmvc2019.org/wp-content/uploads/papers/0443-paper.pdf", 
+        "code": ""
+    },
+    {
+        "title": "Semantically guided location recognition for outdoors scenes",
+        "pub": "ICRA",
+        "year": 2015,
+        "url": "https://ieeexplore.ieee.org/abstract/document/7139877/", 
+        "code": ""
+    },
+    {
+        "title": "Semantics-aware visual localization under challenging perceptual conditions",
+        "pub": "ICRA",
+        "year": 2017,
+        "url": "https://ieeexplore.ieee.org/abstract/document/7989305/", 
+        "code": ""
+    },
+    {
+        "title": "PixSelect: less but reliable pixels for accurate and efficient localization",
+        "pub": "ICRA",
+        "year": 2022,
+        "url": "https://ieeexplore.ieee.org/abstract/document/9812345/", 
+        "code": ""
+    }
+]

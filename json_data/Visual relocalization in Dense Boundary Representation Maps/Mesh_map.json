@@ -1,0 +1,16 @@
+[ 
+    {
+        "title": "FARLAP: fast robust localisation using appearance priors",
+        "pub": "ICRA",
+        "year": 2015,
+        "url": "https://ieeexplore.ieee.org/abstract/document/7140093/", 
+        "code": ""
+    },
+    {
+        "title": "Monocular localization in feature-annotated 3d polygon maps",
+        "pub": "ECMR",
+        "year": 2021,
+        "url": "https://ieeexplore.ieee.org/abstract/document/9568810/", 
+        "code": ""
+    }
+]

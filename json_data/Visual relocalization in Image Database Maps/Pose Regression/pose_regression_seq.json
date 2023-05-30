@@ -1,0 +1,51 @@
+[
+    {
+        "title": "Relative camera pose estimation using convolutional neural networks",
+        "pub": "ACIVS",
+        "year": 2017,
+        "url": "https://link.springer.com/chapter/10.1007/978-3-319-70353-4_57", 
+        "code": "https://github.com/AaltoVision/relativeCameraPose"
+    },
+    {
+        "title": "VidLoc: a deep spatio-temporal model for 6-dof video-clip relocalization",
+        "pub": "CVPR",
+        "year": 2017,
+        "url": "http://openaccess.thecvf.com/content_cvpr_2017/html/Clark_VidLoc_A_Deep_CVPR_2017_paper.html", 
+        "code": ""
+    },
+    {
+        "title": "Deep auxiliary learning for visual localization and odometry",
+        "pub": "ICRA",
+        "year": 2018,
+        "url": "https://ieeexplore.ieee.org/abstract/document/8462979/", 
+        "code": "https://github.com/decayale/vlocnet"
+    },
+    {
+        "title": "VLocNet++: deep multitask learning for semantic visual localization and odometry",
+        "pub": "RAL",
+        "year": 2018,
+        "url": "https://ieeexplore.ieee.org/abstract/document/8458420/", 
+        "code": ""
+    },
+    {
+        "title": "Geometry-aware learning of maps for camera localization",
+        "pub": "CVPR",
+        "year": 2018,
+        "url": "http://openaccess.thecvf.com/content_cvpr_2018/html/Brahmbhatt_Geometry-Aware_Learning_of_CVPR_2018_paper.html", 
+        "code": "https://github.com/NVlabs/geomapnet"
+    },
+    {
+        "title": "GTCaR: Graph Transformer for Camera Re-localization",
+        "pub": "ECCV",
+        "year": 2022,
+        "url": "https://link.springer.com/chapter/10.1007/978-3-031-20080-9_14", 
+        "code": ""
+    },
+    {
+        "title": "Local supports global: deep camera relocalization with sequence enhancement",
+        "pub": "ICCV",
+        "year": 2019,
+        "url": "http://openaccess.thecvf.com/content_ICCV_2019/html/Xue_Local_Supports_Global_Deep_Camera_Relocalization_With_Sequence_Enhancement_ICCV_2019_paper.html", 
+        "code": ""
+    }
+]
