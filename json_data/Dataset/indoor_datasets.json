@@ -1,50 +1,53 @@
-[
-    {
-        "title": "A benchmark for the evaluation of rgb-d slam systems",
-        "name": "TUM-RGBD",
-        "pub": "IROS",
-        "year": 2012,
-        "url": "https://ieeexplore.ieee.org/abstract/document/6385773/", 
-        "page": "https://vision.in.tum.de/data/datasets/rgbd-dataset"
-    },
-    {
-        "title": "Scene coordinate regression forests for camera relocalization in rgb-d images",
-        "name": "7 scenes",
-        "pub": "CVPR",
-        "year": 2013,
-        "url": "http://openaccess.thecvf.com/content_cvpr_2013/html/Shotton_Scene_Coordinate_Regression_2013_CVPR_paper.html", 
-        "page": "https://www.microsoft.com/en-us/research/project/rgb-d-dataset-7-scenes/"
-    },
-    {
-        "title": "The euroc micro aerial vehicle datasets",
-        "name": "EuRoC MAV",
-        "pub": "IJRR",
-        "year": 2016,
-        "url": "https://journals.sagepub.com/doi/pdf/10.1177/0278364915620033", 
-        "page": "https://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets"
-    },
-    {
-        "title": "SceneNN: a scene meshes dataset with annotations",
-        "name": "SceneNN",
-        "pub": "3DV",
-        "year": 2016,
-        "url": "https://ieeexplore.ieee.org/abstract/document/7785081/", 
-        "page": "http://103.24.77.34/scenenn/home/"
-    },
-    {
-        "title": "3dmatch: Learning local geometric descriptors from rgb-d reconstructions",
-        "name": "3DMatch",
-        "pub": "CVPR",
-        "year": 2017,
-        "url": "http://openaccess.thecvf.com/content_cvpr_2017/html/Zeng_3DMatch_Learning_Local_CVPR_2017_paper.html", 
-        "page": "http://3dmatch.cs.princeton.edu/"
-    },
-    {
-        "title": "ADVIO: An authentic dataset for visual-inertial odometry",
-        "name": "ADVIO",
-        "pub": "ECCV",
-        "year": 2018,
-        "url": "http://openaccess.thecvf.com/content_ECCV_2018/html/Santiago_Cortes_ADVIO_An_Authentic_ECCV_2018_paper.html", 
-        "page": "https://github.com/AaltoVision/ADVIO"
-    }
-]
+{
+    "title": "indoor dataset",
+    "papers": [
+        {
+            "title": "A benchmark for the evaluation of rgb-d slam systems",
+            "name": "TUM-RGBD",
+            "pub": "IROS",
+            "year": 2012,
+            "url": "https://ieeexplore.ieee.org/abstract/document/6385773/",
+            "page": "https://vision.in.tum.de/data/datasets/rgbd-dataset"
+        },
+        {
+            "title": "Scene coordinate regression forests for camera relocalization in rgb-d images",
+            "name": "7 scenes",
+            "pub": "CVPR",
+            "year": 2013,
+            "url": "http://openaccess.thecvf.com/content_cvpr_2013/html/Shotton_Scene_Coordinate_Regression_2013_CVPR_paper.html",
+            "page": "https://www.microsoft.com/en-us/research/project/rgb-d-dataset-7-scenes/"
+        },
+        {
+            "title": "The euroc micro aerial vehicle datasets",
+            "name": "EuRoC MAV",
+            "pub": "IJRR",
+            "year": 2016,
+            "url": "https://journals.sagepub.com/doi/pdf/10.1177/0278364915620033",
+            "page": "https://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets"
+        },
+        {
+            "title": "SceneNN: a scene meshes dataset with annotations",
+            "name": "SceneNN",
+            "pub": "3DV",
+            "year": 2016,
+            "url": "https://ieeexplore.ieee.org/abstract/document/7785081/",
+            "page": "http://103.24.77.34/scenenn/home/"
+        },
+        {
+            "title": "3dmatch: Learning local geometric descriptors from rgb-d reconstructions",
+            "name": "3DMatch",
+            "pub": "CVPR",
+            "year": 2017,
+            "url": "http://openaccess.thecvf.com/content_cvpr_2017/html/Zeng_3DMatch_Learning_Local_CVPR_2017_paper.html",
+            "page": "http://3dmatch.cs.princeton.edu/"
+        },
+        {
+            "title": "ADVIO: An authentic dataset for visual-inertial odometry",
+            "name": "ADVIO",
+            "pub": "ECCV",
+            "year": 2018,
+            "url": "http://openaccess.thecvf.com/content_ECCV_2018/html/Santiago_Cortes_ADVIO_An_Authentic_ECCV_2018_paper.html",
+            "page": "https://github.com/AaltoVision/ADVIO"
+        }
+    ]
+}

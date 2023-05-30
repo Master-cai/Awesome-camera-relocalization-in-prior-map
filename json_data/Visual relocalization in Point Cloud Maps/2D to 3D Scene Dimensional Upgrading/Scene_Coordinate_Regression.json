@@ -1,135 +1,138 @@
-[
-    {
-        "title": "Scene coordinate regression forests for camera relocalization in rgb-d images",
-        "pub": "CVPR",
-        "year": 2013,
-        "url": "http://openaccess.thecvf.com/content_cvpr_2013/html/Shotton_Scene_Coordinate_Regression_2013_CVPR_paper.html", 
-        "code": ""
-    },
-    {
-        "title": "Multi-output learning for camera relocalization",
-        "pub": "CVPR",
-        "year": 2014,
-        "url": "https://www.cv-foundation.org/openaccess/content_cvpr_2014/html/Guzman-Rivera_Multi-Output_Learning_for_2014_CVPR_paper.html", 
-        "code": ""
-    },
-    {
-        "title": "Exploiting uncertainty in regression forests for accurate camera relocalization",
-        "pub": "CVPR",
-        "year": 2015,
-        "url": "http://openaccess.thecvf.com/content_cvpr_2015/html/Valentin_Exploiting_Uncertainty_in_2015_CVPR_paper.html", 
-        "code": ""
-    },
-    {
-        "title": "Random forests versus neural networks — what’s best for camera localization",
-        "pub": "ICRA",
-        "year": 2017,
-        "url": "https://ieeexplore.ieee.org/abstract/document/7989598/", 
-        "code": ""
-    },
-    {
-        "title": "On-the-fly adaptation of regression forests for online camera relocalisation",
-        "pub": "CVPR",
-        "year": 2017,
-        "url": "http://openaccess.thecvf.com/content_cvpr_2017/html/Cavallari_On-The-Fly_Adaptation_of_CVPR_2017_paper.html", 
-        "code": ""
-    },
-    {
-        "title": "Exploiting points and lines in regression forests for rgb-d camera relocalization",
-        "pub": "IROS",
-        "year": 2018,
-        "url": "https://ieeexplore.ieee.org/abstract/document/8593505/", 
-        "code": ""
-    },
-    {
-        "title": "DSAC — differentiable ransac for camera localization",
-        "pub": "CVPR",
-        "year": 2017,
-        "url": "http://openaccess.thecvf.com/content_cvpr_2017/html/Brachmann_DSAC_-_Differentiable_CVPR_2017_paper.html", 
-        "code": "https://github.com/cvlab-dresden/DSAC"
-    },
-    {
-        "title": "Learning less is more - 6d camera localization via 3d surface regression",
-        "pub": "CVPR",
-        "year": 2018,
-        "url": "http://openaccess.thecvf.com/content_cvpr_2018/html/Brachmann_Learning_Less_Is_CVPR_2018_paper.html", 
-        "code": "https://github.com/vislearn/LessMore"
-    },
-    {
-        "title": "Scene coordinate regression with angle-based reprojection loss for camera relocalization",
-        "pub": "ECCVW",
-        "year": 2018,
-        "url": "https://openaccess.thecvf.com/content_eccv_2018_workshops/w16/html/Li_Scene_Coordinate_Regression_with_Angle-Based_Reprojection_Loss_for_Camera_Relocalization_ECCVW_2018_paper.html?ref=https://githubhelp.com", 
-        "code": ""
-    },
-    {
-        "title": " Camera relocalization by exploiting multi-view constraints for scene coordinates regression",
-        "pub": "ICCVW",
-        "year": 2019,
-        "url": "http://openaccess.thecvf.com/content_ICCVW_2019/html/DL4VSLAM/Cai_Camera_Relocalization_by_Exploiting_Multi-View_Constraints_for_Scene_Coordinates_Regression_ICCVW_2019_paper.html", 
-        "code": ""
-    },
-    {
-        "title": "Expert sample consensus applied to camera re-localization",
-        "pub": "ICCV",
-        "year": 2019,
-        "url": "http://openaccess.thecvf.com/content_ICCV_2019/html/Brachmann_Expert_Sample_Consensus_Applied_to_Camera_Re-Localization_ICCV_2019_paper.html", 
-        "code": "https://github.com/vislearn/esac"
-    },
-    {
-        "title": "Hierarchical scene coordinate classification and regression for visual localization",
-        "pub": "CVPR",
-        "year": 2020,
-        "url": "http://openaccess.thecvf.com/content_CVPR_2020/html/Li_Hierarchical_Scene_Coordinate_Classification_and_Regression_for_Visual_Localization_CVPR_2020_paper.html", 
-        "code": ""
-    },
-    {
-        "title": "Visual camera re-localization from RGB and RGB-D images using DSAC",
-        "pub": "TPAMI",
-        "year": 2021,
-        "url": "https://ieeexplore.ieee.org/abstract/document/9394752/", 
-        "code": "https://github.com/vislearn/dsacstar"
-    },
-    {
-        "title": " KFNet: learning temporal camera relocalization using kalman filtering",
-        "pub": "CVPR",
-        "year": 2020,
-        "url": "http://openaccess.thecvf.com/content_CVPR_2020/html/Zhou_KFNet_Learning_Temporal_Camera_Relocalization_Using_Kalman_Filtering_CVPR_2020_paper.html", 
-        "code": "https://github.com/zlthinker/KFNet"
-    },
-    {
-        "title": "SANet: scene agnostic network for camera localization",
-        "pub": "ICCV",
-        "year": 2019,
-        "url": "http://openaccess.thecvf.com/content_ICCV_2019/html/Yang_SANet_Scene_Agnostic_Network_for_Camera_Localization_ICCV_2019_paper.html", 
-        "code": ""
-    },
-    {
-        "title": "Learning camera localization via dense scene matching",
-        "pub": "CVPR",
-        "year": 2021,
-        "url": "http://openaccess.thecvf.com/content/CVPR2021/html/Tang_Learning_Camera_Localization_via_Dense_Scene_Matching_CVPR_2021_paper.html", 
-        "code": "https://github.com/Tangshitao/Dense-Scene-Matching"
-    },
-    {
-        "title": "Deep image retrieval: Learning global representations for image search",
-        "pub": "ECCV",
-        "year": 2016,
-        "url": "https://link.springer.com/chapter/10.1007/978-3-319-46466-4_15", 
-        "code": ""
-    },
-    {
-        "title": "Learning to detect scene landmarks for camera localization",
-        "pub": "CVPR",
-        "year": 2022,
-        "url": "http://openaccess.thecvf.com/content/CVPR2022/html/Do_Learning_To_Detect_Scene_Landmarks_for_Camera_Localization_CVPR_2022_paper.html", 
-        "code": ""
-    },
-    {
-        "title": "A deep feature aggregation network for accurate indoor camera localization",
-        "pub": "RAL",
-        "year": 2022,
-        "url": "https://ieeexplore.ieee.org/abstract/document/9697338/", 
-        "code": ""
-    }
-]
+{
+    "title": "Scene Coordinate Regression",
+    "papers": [
+        {
+            "title": "Scene coordinate regression forests for camera relocalization in rgb-d images",
+            "pub": "CVPR",
+            "year": 2013,
+            "url": "http://openaccess.thecvf.com/content_cvpr_2013/html/Shotton_Scene_Coordinate_Regression_2013_CVPR_paper.html",
+            "code": ""
+        },
+        {
+            "title": "Multi-output learning for camera relocalization",
+            "pub": "CVPR",
+            "year": 2014,
+            "url": "https://www.cv-foundation.org/openaccess/content_cvpr_2014/html/Guzman-Rivera_Multi-Output_Learning_for_2014_CVPR_paper.html",
+            "code": ""
+        },
+        {
+            "title": "Exploiting uncertainty in regression forests for accurate camera relocalization",
+            "pub": "CVPR",
+            "year": 2015,
+            "url": "http://openaccess.thecvf.com/content_cvpr_2015/html/Valentin_Exploiting_Uncertainty_in_2015_CVPR_paper.html",
+            "code": ""
+        },
+        {
+            "title": "Random forests versus neural networks — what’s best for camera localization",
+            "pub": "ICRA",
+            "year": 2017,
+            "url": "https://ieeexplore.ieee.org/abstract/document/7989598/",
+            "code": ""
+        },
+        {
+            "title": "On-the-fly adaptation of regression forests for online camera relocalisation",
+            "pub": "CVPR",
+            "year": 2017,
+            "url": "http://openaccess.thecvf.com/content_cvpr_2017/html/Cavallari_On-The-Fly_Adaptation_of_CVPR_2017_paper.html",
+            "code": ""
+        },
+        {
+            "title": "Exploiting points and lines in regression forests for rgb-d camera relocalization",
+            "pub": "IROS",
+            "year": 2018,
+            "url": "https://ieeexplore.ieee.org/abstract/document/8593505/",
+            "code": ""
+        },
+        {
+            "title": "DSAC — differentiable ransac for camera localization",
+            "pub": "CVPR",
+            "year": 2017,
+            "url": "http://openaccess.thecvf.com/content_cvpr_2017/html/Brachmann_DSAC_-_Differentiable_CVPR_2017_paper.html",
+            "code": "https://github.com/cvlab-dresden/DSAC"
+        },
+        {
+            "title": "Learning less is more - 6d camera localization via 3d surface regression",
+            "pub": "CVPR",
+            "year": 2018,
+            "url": "http://openaccess.thecvf.com/content_cvpr_2018/html/Brachmann_Learning_Less_Is_CVPR_2018_paper.html",
+            "code": "https://github.com/vislearn/LessMore"
+        },
+        {
+            "title": "Scene coordinate regression with angle-based reprojection loss for camera relocalization",
+            "pub": "ECCVW",
+            "year": 2018,
+            "url": "https://openaccess.thecvf.com/content_eccv_2018_workshops/w16/html/Li_Scene_Coordinate_Regression_with_Angle-Based_Reprojection_Loss_for_Camera_Relocalization_ECCVW_2018_paper.html?ref=https://githubhelp.com",
+            "code": ""
+        },
+        {
+            "title": " Camera relocalization by exploiting multi-view constraints for scene coordinates regression",
+            "pub": "ICCVW",
+            "year": 2019,
+            "url": "http://openaccess.thecvf.com/content_ICCVW_2019/html/DL4VSLAM/Cai_Camera_Relocalization_by_Exploiting_Multi-View_Constraints_for_Scene_Coordinates_Regression_ICCVW_2019_paper.html",
+            "code": ""
+        },
+        {
+            "title": "Expert sample consensus applied to camera re-localization",
+            "pub": "ICCV",
+            "year": 2019,
+            "url": "http://openaccess.thecvf.com/content_ICCV_2019/html/Brachmann_Expert_Sample_Consensus_Applied_to_Camera_Re-Localization_ICCV_2019_paper.html",
+            "code": "https://github.com/vislearn/esac"
+        },
+        {
+            "title": "Hierarchical scene coordinate classification and regression for visual localization",
+            "pub": "CVPR",
+            "year": 2020,
+            "url": "http://openaccess.thecvf.com/content_CVPR_2020/html/Li_Hierarchical_Scene_Coordinate_Classification_and_Regression_for_Visual_Localization_CVPR_2020_paper.html",
+            "code": ""
+        },
+        {
+            "title": "Visual camera re-localization from RGB and RGB-D images using DSAC",
+            "pub": "TPAMI",
+            "year": 2021,
+            "url": "https://ieeexplore.ieee.org/abstract/document/9394752/",
+            "code": "https://github.com/vislearn/dsacstar"
+        },
+        {
+            "title": " KFNet: learning temporal camera relocalization using kalman filtering",
+            "pub": "CVPR",
+            "year": 2020,
+            "url": "http://openaccess.thecvf.com/content_CVPR_2020/html/Zhou_KFNet_Learning_Temporal_Camera_Relocalization_Using_Kalman_Filtering_CVPR_2020_paper.html",
+            "code": "https://github.com/zlthinker/KFNet"
+        },
+        {
+            "title": "SANet: scene agnostic network for camera localization",
+            "pub": "ICCV",
+            "year": 2019,
+            "url": "http://openaccess.thecvf.com/content_ICCV_2019/html/Yang_SANet_Scene_Agnostic_Network_for_Camera_Localization_ICCV_2019_paper.html",
+            "code": ""
+        },
+        {
+            "title": "Learning camera localization via dense scene matching",
+            "pub": "CVPR",
+            "year": 2021,
+            "url": "http://openaccess.thecvf.com/content/CVPR2021/html/Tang_Learning_Camera_Localization_via_Dense_Scene_Matching_CVPR_2021_paper.html",
+            "code": "https://github.com/Tangshitao/Dense-Scene-Matching"
+        },
+        {
+            "title": "Deep image retrieval: Learning global representations for image search",
+            "pub": "ECCV",
+            "year": 2016,
+            "url": "https://link.springer.com/chapter/10.1007/978-3-319-46466-4_15",
+            "code": ""
+        },
+        {
+            "title": "Learning to detect scene landmarks for camera localization",
+            "pub": "CVPR",
+            "year": 2022,
+            "url": "http://openaccess.thecvf.com/content/CVPR2022/html/Do_Learning_To_Detect_Scene_Landmarks_for_Camera_Localization_CVPR_2022_paper.html",
+            "code": ""
+        },
+        {
+            "title": "A deep feature aggregation network for accurate indoor camera localization",
+            "pub": "RAL",
+            "year": 2022,
+            "url": "https://ieeexplore.ieee.org/abstract/document/9697338/",
+            "code": ""
+        }
+    ]
+}

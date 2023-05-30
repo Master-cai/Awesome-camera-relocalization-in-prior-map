@@ -1,100 +1,103 @@
-[
-    {
-        "title": "PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization",
-        "pub": "ICCV",
-        "year": 2015,
-        "url": "http://openaccess.thecvf.com/content_iccv_2015/html/Kendall_PoseNet_A_Convolutional_ICCV_2015_paper.html", 
-        "code": "https://github.com/alexgkendall/caffe-posenet"
-    },
-    {
-        "title": "Modelling uncertainty in deep learning for camera relocalization",
-        "pub": "ICRA",
-        "year": 2016,
-        "url": "https://ieeexplore.ieee.org/abstract/document/7487679", 
-        "code": "https://github.com/alexgkendall/caffe-posenet"
-    },
-    {
-        "title": "Geometric Loss Functions for Camera Pose Regression With Deep Learning",
-        "pub": "CVPR",
-        "year": 2017,
-        "url": "https://openaccess.thecvf.com/content_cvpr_2017/html/Kendall_Geometric_Loss_Functions_CVPR_2017_paper.html", 
-        "code": ""
-    },
-    {
-        "title": "Image-based localization using hourglass networks",
-        "pub": "ICCV",
-        "year": 2017,
-        "url": "http://openaccess.thecvf.com/content_ICCV_2017_workshops/w17/html/Melekhov_Image-Based_Localization_Using_ICCV_2017_paper.html", 
-        "code": ""
-    },
-    {
-        "title": " Image-based localization using lstms for structured feature correlation",
-        "pub": "ICCV",
-        "year": 2017,
-        "url": "http://openaccess.thecvf.com/content_iccv_2017/html/Walch_Image-Based_Localization_Using_ICCV_2017_paper.html", 
-        "code": ""
-    },
-    {
-        "title": "Deep regression for monocular camera-based 6-dof global localization in outdoor environments",
-        "pub": "IROS",
-        "year": 2017,
-        "url": "https://ieeexplore.ieee.org/abstract/document/8205957/", 
-        "code": ""
-    },
-    {
-        "title": "Delving deeper into convolutional neural networks for camera relocalization",
-        "pub": "ICRA",
-        "year": 2017,
-        "url": "https://ieeexplore.ieee.org/abstract/document/7989663", 
-        "code": ""
-    },
-    {
-        "title": "Atloc: Attention guided camera localization",
-        "pub": "AAAI",
-        "year": 2020,
-        "url": "https://ojs.aaai.org/index.php/AAAI/article/view/6608", 
-        "code": "https://github.com/BingCS/AtLoc"
-    },
-    {
-        "title": "Prior guided dropout for robust visual localization in dynamic environments",
-        "pub": "ICCV",
-        "year": 2019,
-        "url": "http://openaccess.thecvf.com/content_ICCV_2019/html/Huang_Prior_Guided_Dropout_for_Robust_Visual_Localization_in_Dynamic_Environments_ICCV_2019_paper.html", 
-        "code": "https://github.com/zju3dv/RVL-Dynamic"
-    },
-    {
-        "title": "Dfnet: Enhance absolute pose regression with direct feature matching",
-        "pub": "ECCV",
-        "year": 2022,
-        "url": "https://link.springer.com/chapter/10.1007/978-3-031-20080-9_1", 
-        "code": "https://github.com/activevisionlab/dfnet"
-    },
-    {
-        "title": "Sc-wls: Towards interpretable feed-forward camera re-localization",
-        "pub": "ECCV",
-        "year": 2022,
-        "url": "https://link.springer.com/chapter/10.1007/978-3-031-19769-7_34", 
-        "code": "https://github.com/xinwu98/sc-wls"
-    },
-    {
-        "title": "DiffPoseNet: direct differentiable camera pose estimation",
-        "pub": "CVPR",
-        "year": 2022,
-        "url": "http://openaccess.thecvf.com/content/CVPR2022/html/Parameshwara_DiffPoseNet_Direct_Differentiable_Camera_Pose_Estimation_CVPR_2022_paper.html", 
-        "code": ""
-    },
-    {
-        "title": "Extending absolute pose regression to multiple scenes",
-        "pub": "CVPRW",
-        "year": 2020,
-        "url": "http://openaccess.thecvf.com/content_CVPRW_2020/html/w3/Blanton_Extending_Absolute_Pose_Regression_to_Multiple_Scenes_CVPRW_2020_paper.html", 
-        "code": "https://github.com/yolish/multi-scene-pose-transformer"
-    },
-    {
-        "title": "Learning multi-scene absolute pose regression with transformers",
-        "pub": "ICCV",
-        "year": 2021,
-        "url": "http://openaccess.thecvf.com/content/ICCV2021/html/Shavit_Learning_Multi-Scene_Absolute_Pose_Regression_With_Transformers_ICCV_2021_paper.html", 
-        "code": "https://github.com/yolish/multi-scene-pose-transformer"
-    }
-]
+{
+    "title": "monocular camera",
+    "papers": [
+        {
+            "title": "PoseNet: A Convolutional Network for Real-Time 6-DOF Camera Relocalization",
+            "pub": "ICCV",
+            "year": 2015,
+            "url": "http://openaccess.thecvf.com/content_iccv_2015/html/Kendall_PoseNet_A_Convolutional_ICCV_2015_paper.html",
+            "code": "https://github.com/alexgkendall/caffe-posenet"
+        },
+        {
+            "title": "Modelling uncertainty in deep learning for camera relocalization",
+            "pub": "ICRA",
+            "year": 2016,
+            "url": "https://ieeexplore.ieee.org/abstract/document/7487679",
+            "code": "https://github.com/alexgkendall/caffe-posenet"
+        },
+        {
+            "title": "Geometric Loss Functions for Camera Pose Regression With Deep Learning",
+            "pub": "CVPR",
+            "year": 2017,
+            "url": "https://openaccess.thecvf.com/content_cvpr_2017/html/Kendall_Geometric_Loss_Functions_CVPR_2017_paper.html",
+            "code": ""
+        },
+        {
+            "title": "Image-based localization using hourglass networks",
+            "pub": "ICCV",
+            "year": 2017,
+            "url": "http://openaccess.thecvf.com/content_ICCV_2017_workshops/w17/html/Melekhov_Image-Based_Localization_Using_ICCV_2017_paper.html",
+            "code": ""
+        },
+        {
+            "title": " Image-based localization using lstms for structured feature correlation",
+            "pub": "ICCV",
+            "year": 2017,
+            "url": "http://openaccess.thecvf.com/content_iccv_2017/html/Walch_Image-Based_Localization_Using_ICCV_2017_paper.html",
+            "code": ""
+        },
+        {
+            "title": "Deep regression for monocular camera-based 6-dof global localization in outdoor environments",
+            "pub": "IROS",
+            "year": 2017,
+            "url": "https://ieeexplore.ieee.org/abstract/document/8205957/",
+            "code": ""
+        },
+        {
+            "title": "Delving deeper into convolutional neural networks for camera relocalization",
+            "pub": "ICRA",
+            "year": 2017,
+            "url": "https://ieeexplore.ieee.org/abstract/document/7989663",
+            "code": ""
+        },
+        {
+            "title": "Atloc: Attention guided camera localization",
+            "pub": "AAAI",
+            "year": 2020,
+            "url": "https://ojs.aaai.org/index.php/AAAI/article/view/6608",
+            "code": "https://github.com/BingCS/AtLoc"
+        },
+        {
+            "title": "Prior guided dropout for robust visual localization in dynamic environments",
+            "pub": "ICCV",
+            "year": 2019,
+            "url": "http://openaccess.thecvf.com/content_ICCV_2019/html/Huang_Prior_Guided_Dropout_for_Robust_Visual_Localization_in_Dynamic_Environments_ICCV_2019_paper.html",
+            "code": "https://github.com/zju3dv/RVL-Dynamic"
+        },
+        {
+            "title": "Dfnet: Enhance absolute pose regression with direct feature matching",
+            "pub": "ECCV",
+            "year": 2022,
+            "url": "https://link.springer.com/chapter/10.1007/978-3-031-20080-9_1",
+            "code": "https://github.com/activevisionlab/dfnet"
+        },
+        {
+            "title": "Sc-wls: Towards interpretable feed-forward camera re-localization",
+            "pub": "ECCV",
+            "year": 2022,
+            "url": "https://link.springer.com/chapter/10.1007/978-3-031-19769-7_34",
+            "code": "https://github.com/xinwu98/sc-wls"
+        },
+        {
+            "title": "DiffPoseNet: direct differentiable camera pose estimation",
+            "pub": "CVPR",
+            "year": 2022,
+            "url": "http://openaccess.thecvf.com/content/CVPR2022/html/Parameshwara_DiffPoseNet_Direct_Differentiable_Camera_Pose_Estimation_CVPR_2022_paper.html",
+            "code": ""
+        },
+        {
+            "title": "Extending absolute pose regression to multiple scenes",
+            "pub": "CVPRW",
+            "year": 2020,
+            "url": "http://openaccess.thecvf.com/content_CVPRW_2020/html/w3/Blanton_Extending_Absolute_Pose_Regression_to_Multiple_Scenes_CVPRW_2020_paper.html",
+            "code": "https://github.com/yolish/multi-scene-pose-transformer"
+        },
+        {
+            "title": "Learning multi-scene absolute pose regression with transformers",
+            "pub": "ICCV",
+            "year": 2021,
+            "url": "http://openaccess.thecvf.com/content/ICCV2021/html/Shavit_Learning_Multi-Scene_Absolute_Pose_Regression_With_Transformers_ICCV_2021_paper.html",
+            "code": "https://github.com/yolish/multi-scene-pose-transformer"
+        }
+    ]
+}

@@ -1,107 +1,110 @@
-[
-    {
-        "title": "From coarse to fine: robust hierarchical localization at large scale",
-        "pub": "CVPR",
-        "year": 2019,
-        "url": "http://openaccess.thecvf.com/content_CVPR_2019/html/Sarlin_From_Coarse_to_Fine_Robust_Hierarchical_Localization_at_Large_Scale_CVPR_2019_paper.html", 
-        "code": "https://github.com/cvg/Hierarchical-Localization"
-    },
-    {
-        "title": "Efficient monocular pose estimation for complex 3d models",
-        "pub": "ICRA",
-        "year": 2015,
-        "url": "https://ieeexplore.ieee.org/abstract/document/7139372/", 
-        "code": ""
-    },
-    {
-        "title": "Filtering 3d keypoints using gist for accurate image-based localization",
-        "pub": "BMVC",
-        "year": 2016,
-        "url": "http://www.bmva.org/bmvc/2016/papers/paper127/paper127.pdf", 
-        "code": ""
-    },
-    {
-        "title": "Discriminative feature-to-point matching in image-based localization",
-        "pub": "CVPR",
-        "year": 2014,
-        "url": "http://openaccess.thecvf.com/content_cvpr_2014/html/Donoser_Discriminative_Feature-to-Point_Matching_2014_CVPR_paper.html", 
-        "code": ""
-    },
-    {
-        "title": "Fast localization in large-scale environments using supervised indexing of binary features",
-        "pub": "TIP",
-        "year": 2015,
-        "url": "https://ieeexplore.ieee.org/abstract/document/7327197/", 
-        "code": ""
-    },
-    {
-        "title": "Keypoint recognition using randomized trees",
-        "pub": "TPAMI",
-        "year": 2006,
-        "url": "https://ieeexplore.ieee.org/abstract/document/1661548/", 
-        "code": ""
-    },
-    {
-        "title": "From structure-from-motion point clouds to fast location recognition",
-        "pub": "CVPR",
-        "year": 2009,
-        "url": "https://ieeexplore.ieee.org/abstract/document/5206587/", 
-        "code": ""
-    },
-    {
-        "title": "Worldwide pose estimation using 3d point clouds",
-        "pub": "ECCV",
-        "year": 2012,
-        "url": "https://link.springer.com/chapter/10.1007/978-3-319-25781-5_8", 
-        "code": ""
-    },
-    {
-        "title": "Hyperpoints and fine vocabularies for large-scale location recognition",
-        "pub": "ICCV",
-        "year": 2015,
-        "url": "https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Sattler_Hyperpoints_and_Fine_ICCV_2015_paper.html", 
-        "code": ""
-    },
-    {
-        "title": "Large-scale location recognition and the geometric burstiness problem",
-        "pub": "CVPR",
-        "year": 2016,
-        "url": "http://openaccess.thecvf.com/content_cvpr_2016/html/Sattler_Large-Scale_Location_Recognition_CVPR_2016_paper.html", 
-        "code": "https://github.com/tsattler/geometric_burstiness"
-    },
-    {
-        "title": "Back to the feature: learning robust camera localization from pixels to pose",
-        "pub": "CVPR",
-        "year": 2021,
-        "url": "http://openaccess.thecvf.com/content/CVPR2021/html/Sarlin_Back_to_the_Feature_Learning_Robust_Camera_Localization_From_Pixels_CVPR_2021_paper.html", 
-        "code": "https://github.com/cvg/pixloc"
-    },
-    {
-        "title": "DA4AD: end-to-end deep attention-based visual localization for autonomous driving",
-        "pub": "ECCV",
-        "year": 2020,
-        "url": "https://link.springer.com/chapter/10.1007/978-3-030-58604-1_17", 
-        "code": ""
-    },
-    {
-        "title": "Monocular camera localization in prior lidar maps with 2d-3d line correspondences",
-        "pub": "IROS",
-        "year": 2020,
-        "url": "https://ieeexplore.ieee.org/abstract/document/9341690/", 
-        "code": "https://github.com/levenberg/2D-3D-pose-tracking"
-    },
-    {
-        "title": "2d3d-matchnet: Learning to match keypoints across 2d image and 3d point cloud",
-        "pub": "ICRA",
-        "year": 2019,
-        "url": "https://ieeexplore.ieee.org/abstract/document/8794415/", 
-        "code": ""
-    },
-    {
-        "title": "Lcd: Learned cross-domain descriptors for 2d-3d matching",
-        "pub": "AAAI",
-        "year": 2020,
-        "url": "https://ojs.aaai.org/index.php/AAAI/article/view/6859", 
-        "code": "https://github.com/hkust-vgd/lcd"
-    }
-]
+{
+    "title": "Improved matching method",
+    "papers": [
+        {
+            "title": "From coarse to fine: robust hierarchical localization at large scale",
+            "pub": "CVPR",
+            "year": 2019,
+            "url": "http://openaccess.thecvf.com/content_CVPR_2019/html/Sarlin_From_Coarse_to_Fine_Robust_Hierarchical_Localization_at_Large_Scale_CVPR_2019_paper.html",
+            "code": "https://github.com/cvg/Hierarchical-Localization"
+        },
+        {
+            "title": "Efficient monocular pose estimation for complex 3d models",
+            "pub": "ICRA",
+            "year": 2015,
+            "url": "https://ieeexplore.ieee.org/abstract/document/7139372/",
+            "code": ""
+        },
+        {
+            "title": "Filtering 3d keypoints using gist for accurate image-based localization",
+            "pub": "BMVC",
+            "year": 2016,
+            "url": "http://www.bmva.org/bmvc/2016/papers/paper127/paper127.pdf",
+            "code": ""
+        },
+        {
+            "title": "Discriminative feature-to-point matching in image-based localization",
+            "pub": "CVPR",
+            "year": 2014,
+            "url": "http://openaccess.thecvf.com/content_cvpr_2014/html/Donoser_Discriminative_Feature-to-Point_Matching_2014_CVPR_paper.html",
+            "code": ""
+        },
+        {
+            "title": "Fast localization in large-scale environments using supervised indexing of binary features",
+            "pub": "TIP",
+            "year": 2015,
+            "url": "https://ieeexplore.ieee.org/abstract/document/7327197/",
+            "code": ""
+        },
+        {
+            "title": "Keypoint recognition using randomized trees",
+            "pub": "TPAMI",
+            "year": 2006,
+            "url": "https://ieeexplore.ieee.org/abstract/document/1661548/",
+            "code": ""
+        },
+        {
+            "title": "From structure-from-motion point clouds to fast location recognition",
+            "pub": "CVPR",
+            "year": 2009,
+            "url": "https://ieeexplore.ieee.org/abstract/document/5206587/",
+            "code": ""
+        },
+        {
+            "title": "Worldwide pose estimation using 3d point clouds",
+            "pub": "ECCV",
+            "year": 2012,
+            "url": "https://link.springer.com/chapter/10.1007/978-3-319-25781-5_8",
+            "code": ""
+        },
+        {
+            "title": "Hyperpoints and fine vocabularies for large-scale location recognition",
+            "pub": "ICCV",
+            "year": 2015,
+            "url": "https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Sattler_Hyperpoints_and_Fine_ICCV_2015_paper.html",
+            "code": ""
+        },
+        {
+            "title": "Large-scale location recognition and the geometric burstiness problem",
+            "pub": "CVPR",
+            "year": 2016,
+            "url": "http://openaccess.thecvf.com/content_cvpr_2016/html/Sattler_Large-Scale_Location_Recognition_CVPR_2016_paper.html",
+            "code": "https://github.com/tsattler/geometric_burstiness"
+        },
+        {
+            "title": "Back to the feature: learning robust camera localization from pixels to pose",
+            "pub": "CVPR",
+            "year": 2021,
+            "url": "http://openaccess.thecvf.com/content/CVPR2021/html/Sarlin_Back_to_the_Feature_Learning_Robust_Camera_Localization_From_Pixels_CVPR_2021_paper.html",
+            "code": "https://github.com/cvg/pixloc"
+        },
+        {
+            "title": "DA4AD: end-to-end deep attention-based visual localization for autonomous driving",
+            "pub": "ECCV",
+            "year": 2020,
+            "url": "https://link.springer.com/chapter/10.1007/978-3-030-58604-1_17",
+            "code": ""
+        },
+        {
+            "title": "Monocular camera localization in prior lidar maps with 2d-3d line correspondences",
+            "pub": "IROS",
+            "year": 2020,
+            "url": "https://ieeexplore.ieee.org/abstract/document/9341690/",
+            "code": "https://github.com/levenberg/2D-3D-pose-tracking"
+        },
+        {
+            "title": "2d3d-matchnet: Learning to match keypoints across 2d image and 3d point cloud",
+            "pub": "ICRA",
+            "year": 2019,
+            "url": "https://ieeexplore.ieee.org/abstract/document/8794415/",
+            "code": ""
+        },
+        {
+            "title": "Lcd: Learned cross-domain descriptors for 2d-3d matching",
+            "pub": "AAAI",
+            "year": 2020,
+            "url": "https://ojs.aaai.org/index.php/AAAI/article/view/6859",
+            "code": "https://github.com/hkust-vgd/lcd"
+        }
+    ]
+}

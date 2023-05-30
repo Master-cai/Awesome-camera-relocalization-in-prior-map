@@ -1,122 +1,125 @@
-[
-    {
-        "title": "Accurate image localization based on google maps street view",
-        "name": "Google Street View",
-        "pub": "ECCV",
-        "year": 2010,
-        "url": "https://link.springer.com/chapter/10.1007/978-3-642-15561-1_19", 
-        "page": ""
-    },
-    {
-        "title": "City-scale landmark identification on mobile devices",
-        "name": "San francisco",
-        "pub": "CVPR",
-        "year": 2011,
-        "url": "https://ieeexplore.ieee.org/abstract/document/5995610/", 
-        "page": "https://sites.google.com/site/chenmodavid/datasets"
-    },
-    {
-        "title": "Benchmarking 6dof outdoor visual localization in changing conditions",
-        "name": "Aachen Day-Night",
-        "pub": "CVPR",
-        "year": 2018,
-        "url": "http://openaccess.thecvf.com/content_cvpr_2018/html/Sattler_Benchmarking_6DOF_Outdoor_CVPR_2018_paper.html", 
-        "page": "http://visuallocalization.net/"
-    },
-    {
-        "title": "Worldwide pose estimation using 3d point clouds",
-        "name": "Dubrovnik 6K",
-        "pub": "ECCV",
-        "year": 2012,
-        "url": "https://link.springer.com/chapter/10.1007/978-3-319-25781-5_8", 
-        "page": "https://mldta.com/dataset/dubrovnik6k-and-rome16k/"
-    },
-    {
-        "title": "Vision meets robotics: the kitti dataset",
-        "name": "KITTI",
-        "pub": "IJRR",
-        "year": 2013,
-        "url": "https://journals.sagepub.com/doi/pdf/10.1177/0278364913491297", 
-        "page": "https://www.cvlibs.net/datasets/kitti/"
-    },
-    {
-        "title": "Benchmarking 6dof outdoor visual localization in changing conditions",
-        "name": "CMU Seasons",
-        "pub": "CVPR",
-        "year": 2018,
-        "url": "http://openaccess.thecvf.com/content_cvpr_2018/html/Sattler_Benchmarking_6DOF_Outdoor_CVPR_2018_paper.html", 
-        "page": "https://www.visuallocalization.net/datasets/"
-    },
-    {
-        "title": "",
-        "name": "Cambridge",
-        "pub": "ICCV",
-        "year": 2015,
-        "url": "http://openaccess.thecvf.com/content_iccv_2015/html/Kendall_PoseNet_A_Convolutional_ICCV_2015_paper.html", 
-        "page": "https://www.repository.cam.ac.uk/handle/1810/251342"
-    },
-    {
-        "title": "1 year, 1000 km: The Oxford RobotCar dataset",
-        "name": "Oxford-robotcar",
-        "pub": "IJRR",
-        "year": 2017,
-        "url": "https://journals.sagepub.com/doi/pdf/10.1177/0278364916679498", 
-        "page": "http://robotcar-dataset.robots.ox.ac.uk/"
-    },
-    {
-        "title": "University of michigan north campus long-term vision and lidar dataset",
-        "name": "NCLT",
-        "pub": "IJRR",
-        "year": 2016,
-        "url": "https://journals.sagepub.com/doi/pdf/10.1177/0278364915614638", 
-        "page": "http://robots.engin.umich.edu/nclt/"
-    },
-    {
-        "title": "The cityscapes dataset for semantic urban scene understanding",
-        "name": "Cityscape",
-        "pub": "CVPR",
-        "year": 2016,
-        "url": "http://openaccess.thecvf.com/content_cvpr_2016/html/Cordts_The_Cityscapes_Dataset_CVPR_2016_paper.html", 
-        "page": "https://www.cityscapes-dataset.com/dataset-overview/"
-    },
-    {
-        "title": "KAIST multi-spectral day/night data set for autonomous and assisted driving",
-        "name": "KAIST Day/Night",
-        "pub": "TITS",
-        "year": 2018,
-        "url": "https://ieeexplore.ieee.org/abstract/document/8293689/", 
-        "page": "https://github.com/sejong-rcv/CVPRW2015.PlaceRecognition"
-    },
-    {
-        "title": "The apolloscape dataset for autonomous driving",
-        "name": "Apollo Scape",
-        "pub": "CVPRW",
-        "year": 2018,
-        "url": "https://openaccess.thecvf.com/content_cvpr_2018_workshops/w14/html/Huang_The_ApolloScape_Dataset_CVPR_2018_paper.html", 
-        "page": "https://apolloscape.auto/"
-    },
-    {
-        "title": "Semantickitti: A dataset for semantic scene understanding of lidar sequences",
-        "name": "SemanticKITTI",
-        "pub": "ICCV",
-        "year": 2019,
-        "url": "http://openaccess.thecvf.com/content_ICCV_2019/html/Behley_SemanticKITTI_A_Dataset_for_Semantic_Scene_Understanding_of_LiDAR_Sequences_ICCV_2019_paper.html", 
-        "page": "http://www.semantic-kitti.org/"
-    },
-    {
-        "title": "NuScenes: a multimodal dataset for autonomous driving",
-        "name": "nuScenes",
-        "pub": "CVPR",
-        "year": 2020,
-        "url": "http://openaccess.thecvf.com/content_CVPR_2020/html/Caesar_nuScenes_A_Multimodal_Dataset_for_Autonomous_Driving_CVPR_2020_paper.html", 
-        "page": "https://www.nuscenes.org/"
-    },
-    {
-        "title": "Rethinking visual geo-localization for large-scale applications",
-        "name": "SF-XL",
-        "pub": "CVPR",
-        "year": 2022,
-        "url": "http://openaccess.thecvf.com/content/CVPR2022/html/Berton_Rethinking_Visual_Geo-Localization_for_Large-Scale_Applications_CVPR_2022_paper.html", 
-        "page": "https://github.com/gmberton/cosplace"
-    }
-]
+{
+    "title": "outdoor dataset",
+    "papers": [
+        {
+            "title": "Accurate image localization based on google maps street view",
+            "name": "Google Street View",
+            "pub": "ECCV",
+            "year": 2010,
+            "url": "https://link.springer.com/chapter/10.1007/978-3-642-15561-1_19",
+            "page": ""
+        },
+        {
+            "title": "City-scale landmark identification on mobile devices",
+            "name": "San francisco",
+            "pub": "CVPR",
+            "year": 2011,
+            "url": "https://ieeexplore.ieee.org/abstract/document/5995610/",
+            "page": "https://sites.google.com/site/chenmodavid/datasets"
+        },
+        {
+            "title": "Benchmarking 6dof outdoor visual localization in changing conditions",
+            "name": "Aachen Day-Night",
+            "pub": "CVPR",
+            "year": 2018,
+            "url": "http://openaccess.thecvf.com/content_cvpr_2018/html/Sattler_Benchmarking_6DOF_Outdoor_CVPR_2018_paper.html",
+            "page": "http://visuallocalization.net/"
+        },
+        {
+            "title": "Worldwide pose estimation using 3d point clouds",
+            "name": "Dubrovnik 6K",
+            "pub": "ECCV",
+            "year": 2012,
+            "url": "https://link.springer.com/chapter/10.1007/978-3-319-25781-5_8",
+            "page": "https://mldta.com/dataset/dubrovnik6k-and-rome16k/"
+        },
+        {
+            "title": "Vision meets robotics: the kitti dataset",
+            "name": "KITTI",
+            "pub": "IJRR",
+            "year": 2013,
+            "url": "https://journals.sagepub.com/doi/pdf/10.1177/0278364913491297",
+            "page": "https://www.cvlibs.net/datasets/kitti/"
+        },
+        {
+            "title": "Benchmarking 6dof outdoor visual localization in changing conditions",
+            "name": "CMU Seasons",
+            "pub": "CVPR",
+            "year": 2018,
+            "url": "http://openaccess.thecvf.com/content_cvpr_2018/html/Sattler_Benchmarking_6DOF_Outdoor_CVPR_2018_paper.html",
+            "page": "https://www.visuallocalization.net/datasets/"
+        },
+        {
+            "title": "",
+            "name": "Cambridge",
+            "pub": "ICCV",
+            "year": 2015,
+            "url": "http://openaccess.thecvf.com/content_iccv_2015/html/Kendall_PoseNet_A_Convolutional_ICCV_2015_paper.html",
+            "page": "https://www.repository.cam.ac.uk/handle/1810/251342"
+        },
+        {
+            "title": "1 year, 1000 km: The Oxford RobotCar dataset",
+            "name": "Oxford-robotcar",
+            "pub": "IJRR",
+            "year": 2017,
+            "url": "https://journals.sagepub.com/doi/pdf/10.1177/0278364916679498",
+            "page": "http://robotcar-dataset.robots.ox.ac.uk/"
+        },
+        {
+            "title": "University of michigan north campus long-term vision and lidar dataset",
+            "name": "NCLT",
+            "pub": "IJRR",
+            "year": 2016,
+            "url": "https://journals.sagepub.com/doi/pdf/10.1177/0278364915614638",
+            "page": "http://robots.engin.umich.edu/nclt/"
+        },
+        {
+            "title": "The cityscapes dataset for semantic urban scene understanding",
+            "name": "Cityscape",
+            "pub": "CVPR",
+            "year": 2016,
+            "url": "http://openaccess.thecvf.com/content_cvpr_2016/html/Cordts_The_Cityscapes_Dataset_CVPR_2016_paper.html",
+            "page": "https://www.cityscapes-dataset.com/dataset-overview/"
+        },
+        {
+            "title": "KAIST multi-spectral day/night data set for autonomous and assisted driving",
+            "name": "KAIST Day/Night",
+            "pub": "TITS",
+            "year": 2018,
+            "url": "https://ieeexplore.ieee.org/abstract/document/8293689/",
+            "page": "https://github.com/sejong-rcv/CVPRW2015.PlaceRecognition"
+        },
+        {
+            "title": "The apolloscape dataset for autonomous driving",
+            "name": "Apollo Scape",
+            "pub": "CVPRW",
+            "year": 2018,
+            "url": "https://openaccess.thecvf.com/content_cvpr_2018_workshops/w14/html/Huang_The_ApolloScape_Dataset_CVPR_2018_paper.html",
+            "page": "https://apolloscape.auto/"
+        },
+        {
+            "title": "Semantickitti: A dataset for semantic scene understanding of lidar sequences",
+            "name": "SemanticKITTI",
+            "pub": "ICCV",
+            "year": 2019,
+            "url": "http://openaccess.thecvf.com/content_ICCV_2019/html/Behley_SemanticKITTI_A_Dataset_for_Semantic_Scene_Understanding_of_LiDAR_Sequences_ICCV_2019_paper.html",
+            "page": "http://www.semantic-kitti.org/"
+        },
+        {
+            "title": "NuScenes: a multimodal dataset for autonomous driving",
+            "name": "nuScenes",
+            "pub": "CVPR",
+            "year": 2020,
+            "url": "http://openaccess.thecvf.com/content_CVPR_2020/html/Caesar_nuScenes_A_Multimodal_Dataset_for_Autonomous_Driving_CVPR_2020_paper.html",
+            "page": "https://www.nuscenes.org/"
+        },
+        {
+            "title": "Rethinking visual geo-localization for large-scale applications",
+            "name": "SF-XL",
+            "pub": "CVPR",
+            "year": 2022,
+            "url": "http://openaccess.thecvf.com/content/CVPR2022/html/Berton_Rethinking_Visual_Geo-Localization_for_Large-Scale_Applications_CVPR_2022_paper.html",
+            "page": "https://github.com/gmberton/cosplace"
+        }
+    ]
+}

@@ -43,7 +43,7 @@ def generate_all_pieces(data):
     # sort by year, then conference
     data = sorted(data, key=itemgetter('year', 'pub'))
 
-    return "\n".join([generate_one_piece(m) for m in data])
+    return "\n\n".join([generate_one_piece(m) for m in data])
 
 def generate_markdown(folder_path, output_file):
     """
@@ -96,13 +96,13 @@ def generate_markdown_recursive(folder_path, level):
             markdown_content += item_content
             table_of_contents += item_toc
         elif os.path.isfile(item_path) and item.endswith('.json'):
-            json_title = os.path.splitext(item)[0]
-            markdown_content += f"{'#' * (level + 1)} {json_title}\n\n"
-        
-            
-            with open(item_path, 'r') as json_file:
-                # markdown_content += json_file.read()
-                markdown_content += 'test json'
+            with open(item_path, 'r') as f:
+                data = json.load(f)
+                json_title = data['title']
+                markdown_content += f"{'#' * (level + 1)} {json_title}\n\n"
+                if 'intro' in data.keys():
+                    markdown_content += data['intro'] + '\n\n'
+                markdown_content += generate_all_pieces(data['papers'])
             
             markdown_content += '\n'
             

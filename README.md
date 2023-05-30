@@ -53,6 +53,8 @@ The core idea of image retrieval-based methods  is to first search for the refer
 
 #### Image retrieval methods
 
+
+
 ![](https://img.shields.io/badge/year-2001-g)![](https://img.shields.io/badge/pub-IJCV-orange)[Modeling the shape of the scene: A holistic representation of the spatial envelope](https://link.springer.com/article/10.1023/A:1011139631724)
 
 ![](https://img.shields.io/badge/year-2008-g)![](https://img.shields.io/badge/pub-CVPR-orange)[IM2GPS: estimating geographic information from a single image](https://ieeexplore.ieee.org/abstract/document/4587784/)

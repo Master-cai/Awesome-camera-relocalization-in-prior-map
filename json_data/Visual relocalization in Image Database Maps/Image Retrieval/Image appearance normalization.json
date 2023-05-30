@@ -1,23 +1,26 @@
-[
-    {
-        "title": "Night-to-day image translation for retrieval-based localization",
-        "pub": "ICRA",
-        "year": 2019,
-        "url": "https://ieeexplore.ieee.org/abstract/document/8794387/", 
-        "code": "https://github.com/AAnoosheh/ToDayGAN"
-    },
-    {
-        "title": "A deep learning based image enhancement approach for autonomous driving at night",
-        "pub": "KBS",
-        "year": 2021,
-        "url": "https://www.sciencedirect.com/science/article/pii/S0950705120307462", 
-        "code": ""
-    },
-    {
-        "title": "Adversarial feature disentanglement for place recognition across changing appearance",
-        "pub": "ICRA",
-        "year": 2020,
-        "url": "https://ieeexplore.ieee.org/abstract/document/9196518/", 
-        "code": ""
-    }
-]
+{
+    "title": "Image appearance normalization",
+    "papers": [
+        {
+            "title": "Night-to-day image translation for retrieval-based localization",
+            "pub": "ICRA",
+            "year": 2019,
+            "url": "https://ieeexplore.ieee.org/abstract/document/8794387/",
+            "code": "https://github.com/AAnoosheh/ToDayGAN"
+        },
+        {
+            "title": "A deep learning based image enhancement approach for autonomous driving at night",
+            "pub": "KBS",
+            "year": 2021,
+            "url": "https://www.sciencedirect.com/science/article/pii/S0950705120307462",
+            "code": ""
+        },
+        {
+            "title": "Adversarial feature disentanglement for place recognition across changing appearance",
+            "pub": "ICRA",
+            "year": 2020,
+            "url": "https://ieeexplore.ieee.org/abstract/document/9196518/",
+            "code": ""
+        }
+    ]
+}

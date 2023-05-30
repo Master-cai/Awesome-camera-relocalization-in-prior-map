@@ -1,36 +1,40 @@
-[{
-    "title": "NeXtVLAD: an efficient neural network to aggregate frame-level features for large-scale video classification",
-    "pub": "ECCV",
-    "year": 2019,
-    "url": "https://openaccess.thecvf.com/content_eccv_2018_workshops/w22/html/Lin_NeXtVLAD_An_Efficient_Neural_Network_to_Aggregate_Frame-level_Features_for_ECCVW_2018_paper.html", 
-    "code": "https://github.com/linrongc/youtube-8m"
-},
 {
-    "title": "TransGeo: transformer is all you need for cross-view image geo-localization",
-    "pub": "CVPR",
-    "year": 2022,
-    "url": "http://openaccess.thecvf.com/content/CVPR2022/html/Zhu_TransGeo_Transformer_Is_All_You_Need_for_Cross-View_Image_Geo-Localization_CVPR_2022_paper.html", 
-    "code": "https://github.com/jeff-zilence/transgeo2022"
-},
-{
-    "title": "Deep visual geo-localization benchmark",
-    "pub": "CVPR",
-    "year": 2022,
-    "url": "http://openaccess.thecvf.com/content/CVPR2022/html/Berton_Deep_Visual_Geo-Localization_Benchmark_CVPR_2022_paper.html", 
-    "code": "https://github.com/gmberton/deep-visual-geo-localization-benchmark"
-},
-{
-    "title": "An efficient and scalable collection of fly-inspired voting units for visual place recognition in changing environments",
-    "pub": "RAL",
-    "year": 2022,
-    "url": "https://ieeexplore.ieee.org/abstract/document/9672749/", 
-    "code": ""
-},
-{
-    "title": "An efficient and scalable collection of fly-inspired voting units for visual place recognition in changing environments",
-    "pub": "RAL",
-    "year": 2022,
-    "url": "https://ieeexplore.ieee.org/abstract/document/9672749/", 
-    "code": ""
+    "title": "Image retrieval methods",
+    "papers": [
+        {
+            "title": "NeXtVLAD: an efficient neural network to aggregate frame-level features for large-scale video classification",
+            "pub": "ECCV",
+            "year": 2019,
+            "url": "https://openaccess.thecvf.com/content_eccv_2018_workshops/w22/html/Lin_NeXtVLAD_An_Efficient_Neural_Network_to_Aggregate_Frame-level_Features_for_ECCVW_2018_paper.html",
+            "code": "https://github.com/linrongc/youtube-8m"
+        },
+        {
+            "title": "TransGeo: transformer is all you need for cross-view image geo-localization",
+            "pub": "CVPR",
+            "year": 2022,
+            "url": "http://openaccess.thecvf.com/content/CVPR2022/html/Zhu_TransGeo_Transformer_Is_All_You_Need_for_Cross-View_Image_Geo-Localization_CVPR_2022_paper.html",
+            "code": "https://github.com/jeff-zilence/transgeo2022"
+        },
+        {
+            "title": "Deep visual geo-localization benchmark",
+            "pub": "CVPR",
+            "year": 2022,
+            "url": "http://openaccess.thecvf.com/content/CVPR2022/html/Berton_Deep_Visual_Geo-Localization_Benchmark_CVPR_2022_paper.html",
+            "code": "https://github.com/gmberton/deep-visual-geo-localization-benchmark"
+        },
+        {
+            "title": "An efficient and scalable collection of fly-inspired voting units for visual place recognition in changing environments",
+            "pub": "RAL",
+            "year": 2022,
+            "url": "https://ieeexplore.ieee.org/abstract/document/9672749/",
+            "code": ""
+        },
+        {
+            "title": "An efficient and scalable collection of fly-inspired voting units for visual place recognition in changing environments",
+            "pub": "RAL",
+            "year": 2022,
+            "url": "https://ieeexplore.ieee.org/abstract/document/9672749/",
+            "code": ""
+        }
+    ]
 }
-]

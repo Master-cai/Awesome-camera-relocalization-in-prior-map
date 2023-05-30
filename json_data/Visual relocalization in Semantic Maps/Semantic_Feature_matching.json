@@ -1,30 +1,33 @@
-[
-    {
-        "title": "Long-term visual localization using semantically segmented images",
-        "pub": "ICRA",
-        "year": 2018,
-        "url": "https://ieeexplore.ieee.org/abstract/document/8463150/", 
-        "code": ""
-    },
-    {
-        "title": "Fine-grained segmentation networks: self-supervised segmentation for improved long-term visual localization",
-        "pub": "ICCV",
-        "year": 2019,
-        "url": "http://openaccess.thecvf.com/content_ICCV_2019/html/Larsson_Fine-Grained_Segmentation_Networks_Self-Supervised_Segmentation_for_Improved_Long-Term_Visual_Localization_ICCV_2019_paper.html", 
-        "code": "https://github.com/maunzzz/fine-grained-segmentation-networks"
-    },
-    {
-        "title": "Semantic match consistency for long-term visual localization",
-        "pub": "ECCV",
-        "year": 2018,
-        "url": "http://openaccess.thecvf.com/content_ECCV_2018/html/Carl_Toft_Semantic_Match_Consistency_ECCV_2018_paper.html", 
-        "code": ""
-    },
-    {
-        "title": "SemLoc: accurate and robust visual localization with semantic and structural constraints from prior maps",
-        "pub": "ICRA",
-        "year": 2022,
-        "url": "https://ieeexplore.ieee.org/abstract/document/9811925/", 
-        "code": ""
-    }
-]
+{
+    "title": "Semantic Feature matching",
+    "papers": [
+        {
+            "title": "Long-term visual localization using semantically segmented images",
+            "pub": "ICRA",
+            "year": 2018,
+            "url": "https://ieeexplore.ieee.org/abstract/document/8463150/",
+            "code": ""
+        },
+        {
+            "title": "Fine-grained segmentation networks: self-supervised segmentation for improved long-term visual localization",
+            "pub": "ICCV",
+            "year": 2019,
+            "url": "http://openaccess.thecvf.com/content_ICCV_2019/html/Larsson_Fine-Grained_Segmentation_Networks_Self-Supervised_Segmentation_for_Improved_Long-Term_Visual_Localization_ICCV_2019_paper.html",
+            "code": "https://github.com/maunzzz/fine-grained-segmentation-networks"
+        },
+        {
+            "title": "Semantic match consistency for long-term visual localization",
+            "pub": "ECCV",
+            "year": 2018,
+            "url": "http://openaccess.thecvf.com/content_ECCV_2018/html/Carl_Toft_Semantic_Match_Consistency_ECCV_2018_paper.html",
+            "code": ""
+        },
+        {
+            "title": "SemLoc: accurate and robust visual localization with semantic and structural constraints from prior maps",
+            "pub": "ICRA",
+            "year": 2022,
+            "url": "https://ieeexplore.ieee.org/abstract/document/9811925/",
+            "code": ""
+        }
+    ]
+}

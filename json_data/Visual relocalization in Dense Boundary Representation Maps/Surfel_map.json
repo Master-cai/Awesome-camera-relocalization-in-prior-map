@@ -1,16 +1,19 @@
-[ 
-    {
-        "title": "Monocular direct sparse localization in a prior 3d surfel map",
-        "pub": "ICRA",
-        "year": 2020,
-        "url": "https://ieeexplore.ieee.org/abstract/document/9197022/", 
-        "code": ""
-    },
-    {
-        "title": "3D surfel map-aided visual relocalization with learned descriptors",
-        "pub": "ICRA",
-        "year": 2021,
-        "url": "https://ieeexplore.ieee.org/abstract/document/9561005/", 
-        "code": ""
-    }
-]
+{
+    "title": "Surfel map",
+    "papers": [
+        {
+            "title": "Monocular direct sparse localization in a prior 3d surfel map",
+            "pub": "ICRA",
+            "year": 2020,
+            "url": "https://ieeexplore.ieee.org/abstract/document/9197022/",
+            "code": ""
+        },
+        {
+            "title": "3D surfel map-aided visual relocalization with learned descriptors",
+            "pub": "ICRA",
+            "year": 2021,
+            "url": "https://ieeexplore.ieee.org/abstract/document/9561005/",
+            "code": ""
+        }
+    ]
+}

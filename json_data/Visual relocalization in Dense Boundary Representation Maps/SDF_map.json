@@ -1,16 +1,19 @@
-[ 
-    {
-        "title": "Metric monocular localization using signed distance fields",
-        "pub": "IROS",
-        "year": 2019,
-        "url": "https://ieeexplore.ieee.org/abstract/document/8968033/", 
-        "code": ""
-    },
-    {
-        "title": " Freetures: localization in signed distance function map",
-        "pub": "RAL",
-        "year": 2021,
-        "url": "https://ieeexplore.ieee.org/abstract/document/9327493/", 
-        "code": ""
-    }
-]
+{
+    "title": "SDF map",
+    "papers": [
+        {
+            "title": "Metric monocular localization using signed distance fields",
+            "pub": "IROS",
+            "year": 2019,
+            "url": "https://ieeexplore.ieee.org/abstract/document/8968033/",
+            "code": ""
+        },
+        {
+            "title": " Freetures: localization in signed distance function map",
+            "pub": "RAL",
+            "year": 2021,
+            "url": "https://ieeexplore.ieee.org/abstract/document/9327493/",
+            "code": ""
+        }
+    ]
+}
